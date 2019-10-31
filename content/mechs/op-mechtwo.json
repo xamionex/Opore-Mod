@@ -11,7 +11,7 @@
 	"weapon": {
 		"name": "op",
 		"length": 1.5,
-		"reload": 0,
+		"reload": 4,
 		"alternate": false,
 		"bullet": {
 			"speed": 8.0,
