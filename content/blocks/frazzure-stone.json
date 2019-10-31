@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Frazzure",
+	"itemDrop": "frazzure",
+	"variants": 3,
+	"playerUnmineable": true
+}

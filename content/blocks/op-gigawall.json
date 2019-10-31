@@ -1,0 +1,12 @@
+{
+	"name": "Gigantic Opore Wall",
+	"description": "A gigantic wall of opore. Extremely durable!",
+	"type": "Wall",
+	"health": 25000,
+	"size": 4,
+	"requirements": [
+		{ "item": "opore", "amount": 450 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

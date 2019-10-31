@@ -1,0 +1,17 @@
+{
+	"name": "Opore Mech Pad",
+	"description": "Opore madness.",
+	"type": "MechPad",
+	"mech": "op-mech",
+	"size": 2,
+	"consumes": {
+		"power": 0.7
+	},
+	"category": "upgrade",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "opore", "amount": 145 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 50 },
+	]
+}

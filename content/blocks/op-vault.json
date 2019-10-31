@@ -1,0 +1,16 @@
+{
+	"name": "Opore Vault",
+	"description": "A vault thats made out of opore, stores a large amount!",
+	"type": "Vault",
+	"itemCapacity": 75000,
+	"hasItems": true,
+	"health": 10000,
+	"size": 3,
+	"requirements": [
+		{ "item": "megaopore", "amount": 5 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "effect",
+	"research": "vault"
+}

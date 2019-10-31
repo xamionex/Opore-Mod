@@ -1,0 +1,8 @@
+{
+	"name": "Liquid Opore",
+	"description": "Just like opore but a liquid.",
+	"temperature": 0.9,
+    "viscosity": 0.8,
+    "effect": "melting",
+    "color": "a4a2bd"
+}

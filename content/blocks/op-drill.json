@@ -1,0 +1,23 @@
+{
+	"name": "Opore Drill",
+	"description": "A drill made out of opore.",
+	"type": "Drill",
+	"size": 4,
+	"tier": 4,
+	"drillTime": 1.0,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "liquid-opore", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "megaopore", "amount": 20 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

@@ -1,0 +1,72 @@
+{
+	"type": "DoubleTurret",
+	"name": "Opore Spectre",
+	"description": "A Spectre made out of opore.",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 7000,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 6,
+	"shots": 2,
+	"recoil": 3,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 24,
+	"rotateSpeed": 50,
+	"range": 300,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "liquid-frazzure", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"ammo": {
+		"opore": {
+			"speed": 30,
+			"damage": 225,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "burning",
+			"homingRange":120,
+			"homingPower":7,
+			"ammoMultiplier": 2,
+			"frontColor": "f54242",
+			"backColor": "ff0000"
+		},
+		"azurite": {
+			"speed": 30,
+			"damage": 185,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "burning",
+			"ammoMultiplier": 2,
+			"frontColor": "f54242",
+			"backColor": "ff0000"
+		},
+		"frazzure": {
+			"speed": 30,
+			"damage": 205,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"ammoMultiplier": 2,
+			"frontColor": "00bfff",
+			"backColor": "0059ff"
+		}
+	},
+	"requirements": [
+		{ "item": "opore", "amount": 100 },
+		{ "item": "titanium", "amount": 20 },
+		{ "item": "silicon", "amount": 30 }
+	],
+	"category": "turret"
+	"shootSound": "shootBig"
+}

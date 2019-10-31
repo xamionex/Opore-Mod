@@ -1,0 +1,8 @@
+{
+	"name": "Frazzure",
+	"description": "Natural liquid extracted from the ground or found on the surface.",
+	"temperature": 0.9,
+    "viscosity": 0.8,
+    "effect": "freezing",
+    "color": "a4a2bd"
+}

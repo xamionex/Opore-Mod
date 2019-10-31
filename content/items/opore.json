@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Opore",
+	"description": "Standard opore ore mined out of opore caches or made from thorium.",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "ff0087",
+	"explosiveness": 2
+	"flammability": 2
+}

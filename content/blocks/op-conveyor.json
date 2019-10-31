@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Opore conveyor",
+	"description": "A conveyor made out of opore.",
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "opore", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 3.0,
+	"research": "titanium-conveyor"
+}

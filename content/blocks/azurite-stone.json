@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Azurite",
+	"itemDrop": "azurite",
+	"variants": 3,
+	"playerUnmineable": true
+}

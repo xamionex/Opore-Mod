@@ -1,0 +1,17 @@
+{
+	"type": "flyingUnit",
+	"name": "Opore Mech Unit",
+	"description": "An opore mech unit.",
+	"speed": 0.5,
+	"flying": true,
+	"health": 500,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "op-mechunit-blaster",
+		"length": 3,
+		"reload": 0,
+		"alternate": false,
+		"bullet": "lightning"
+	}
+}

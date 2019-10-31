@@ -1,0 +1,34 @@
+{
+	"type": "GenericSmelter",
+	"name": "Opore Forge",
+	"description": "this makes regular opore",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "opore", "amount": 10},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 20 }
+			]
+		},
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "blast-mixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

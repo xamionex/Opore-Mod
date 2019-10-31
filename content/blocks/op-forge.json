@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "Megaopore Forge",
+	"description": "this makes regular opore into mega opore",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "megaopore", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "opore", "amount": 50 }
+			]
+		},
+		"liquid": {
+			"liquid": "liquid-opore",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "opore", "amount": 50 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "blast-mixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
