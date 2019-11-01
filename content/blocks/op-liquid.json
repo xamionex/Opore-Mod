@@ -9,5 +9,6 @@
     "status": "melting"
     "cacheLayer": "tar"
     "drownTime": 150
-    "blendGroup": "stone"
+	"edge": "stone"
+	"blendGroup": "stone"
 }

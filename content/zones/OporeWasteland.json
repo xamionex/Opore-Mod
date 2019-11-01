@@ -1,0 +1,22 @@
+{
+	"name": "Opore Wasteland",
+	"description": "Survive.",
+	"loadout": "basicFoundation",
+    "startingItems": [
+    	{"item": "copper", "amount": 50}
+    ],
+    "conditionWave": 30,
+    "launchPeriod": 10,
+    "requirements": [
+    	{
+    		"type": "ZoneWave",
+    		"zone": "nuclearComplex", 
+    		"wave": 25
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "opore-forge"
+    	}
+    ],
+    "resources": ["copper", "titanium", "lead", "coal", "sand", "thorium","opore"]
+}

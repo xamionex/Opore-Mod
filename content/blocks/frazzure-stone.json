@@ -1,5 +1,5 @@
 {
-	"type": "floor",
+	"type": "OreBlock",
 	"name": "Frazzure",
 	"itemDrop": "frazzure",
 	"variants": 3,

@@ -1,5 +1,5 @@
 {
-	"type": "floor",
+	"type": "OreBlock",
 	"name": "Azurite",
 	"itemDrop": "azurite",
 	"variants": 3,

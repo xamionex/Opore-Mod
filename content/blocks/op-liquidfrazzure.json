@@ -9,5 +9,6 @@
     "status": "freezing"
     "cacheLayer": "water"
     "drownTime": 160
-    "blendGroup": "stone"
+	"edge": "stone"
+	"blendGroup": "stone"
 }
