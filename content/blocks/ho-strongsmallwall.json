@@ -1,0 +1,12 @@
+{
+	"name": "Holy Wall",
+	"description": "A Holy wall, Praised by Jesus himself! Very durable, More durable than the opore wall.",
+	"type": "Wall",
+	"health": 1800,
+	"size": 1,
+	"requirements": [
+		{ "item": "holyore", "amount": 125 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

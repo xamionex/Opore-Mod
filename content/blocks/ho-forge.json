@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "Holyore Forge",
+	"description": "this makes regular thorium and water into holyore",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "holyore", "amount": 5},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 10 }
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 50 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "blast-mixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
