@@ -1,0 +1,12 @@
+{
+	"name": "Gigantic Void Wall",
+	"description": "A Gigantic Void wall, More durable than the holy wall.",
+	"type": "Wall",
+	"health": 30000,
+	"size": 4,
+	"requirements": [
+		{ "item": "voidore", "amount": 450 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Void Drill",
+	"description": "A Void drill made out of voidore.",
+	"type": "Drill",
+	"size": 4,
+	"tier": 4,
+	"drillTime": 1.0,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "liquid-voidore", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "voidore", "amount": 60 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

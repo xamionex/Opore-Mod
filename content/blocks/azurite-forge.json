@@ -3,6 +3,7 @@
 	"name": "Azurite Forge",
 	"description": "Uses thorium to make Azurite, a highly flammable ore",
 	"liquidCapacity": 50,
+	"itemCapacity": 50,
 	"outputItem": {"item": "azurite", "amount": 1},
 	"size": 2,
 	"hasPower": true,

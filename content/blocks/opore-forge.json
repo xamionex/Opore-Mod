@@ -3,6 +3,7 @@
 	"name": "Opore Forge",
 	"description": "this makes regular opore",
 	"liquidCapacity": 50,
+	"itemCapacity": 50,
 	"outputItem": {"item": "opore", "amount": 10},
 	"size": 2,
 	"hasPower": true,

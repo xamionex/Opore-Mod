@@ -1,10 +1,10 @@
 {
 	"type": "GenericSmelter",
-	"name": "Megaopore Forge",
-	"description": "this makes regular opore into mega opore",
+	"name": "Voidore Forge",
+	"description": "this makes regular thorium and water into voidore",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
-	"outputItem": {"item": "megaopore", "amount": 1},
+	"outputItem": {"item": "voidore", "amount": 5},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,16 +15,16 @@
 		"power": 0.7,
 		"items": {
 			"items": [
-				{ "item": "opore", "amount": 50 }
+				{ "item": "thorium", "amount": 10 }
 			]
 		},
 		"liquid": {
-			"liquid": "liquid-opore",
+			"liquid": "water",
 			"amount": 1.0
 		}
 	},
 	"requirements": [
-		{ "item": "opore", "amount": 50 },
+		{ "item": "thorium", "amount": 50 },
 		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 80 },
 		{ "item": "silicon", "amount": 60 }

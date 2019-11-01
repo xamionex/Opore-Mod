@@ -1,0 +1,16 @@
+{
+	"name": "Void Vault",
+	"description": "A void vault thats made out of void ore, stores a large amount!",
+	"type": "Vault",
+	"itemCapacity": 125000,
+	"hasItems": true,
+	"health": 14000,
+	"size": 3,
+	"requirements": [
+		{ "item": "voidore", "amount": 175 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "effect",
+	"research": "vault"
+}

@@ -1,0 +1,37 @@
+{
+	"type": "DoubleTurret",
+	"name": "Void Turret",
+	"description": "A Void Duo made out of void ore.",
+	"health": 2000,
+	"size": 1,
+	"reload": 7,
+	"range": 500,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 1,
+	"rotatespeed": 12,
+	"ammo": {
+		"voidore": {
+			"speed": 11.0,
+			"damage": 60.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"graphite": {
+			"speed": 8.0,
+			"damage": 55.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "voidore", "amount": 25 },
+	],
+	"category": "turret",
+	"research": "duo"
+}

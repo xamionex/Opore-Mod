@@ -3,6 +3,7 @@
 	"name": "Holyore Forge",
 	"description": "this makes regular thorium and water into holyore",
 	"liquidCapacity": 50,
+	"itemCapacity": 50,
 	"outputItem": {"item": "holyore", "amount": 5},
 	"size": 2,
 	"hasPower": true,

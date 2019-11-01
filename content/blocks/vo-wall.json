@@ -1,0 +1,12 @@
+{
+	"name": "Void Wall",
+	"description": "A Void wall, Very durable, More durable than the Holy wall.",
+	"type": "Wall",
+	"health": 6900,
+	"size": 2,
+	"requirements": [
+		{ "item": "voidore", "amount": 175 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

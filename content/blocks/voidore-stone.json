@@ -1,0 +1,7 @@
+{
+	"type": "OreBlock",
+	"name": "Void Ore",
+	"itemDrop": "voidore",
+	"variants": 3,
+	"playerUnmineable": true
+}

@@ -1,0 +1,20 @@
+{
+	"name": "Void Mech",
+	"description": "Become a void mech.",
+	"speed": 1.0,
+	"boostSpeed": 1.2,
+	"buildPower": 7.0,
+	"engineColor": "666495",
+	"flying": false,
+	"health": 1300,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "voidgun",
+		"homingRange":120,
+		"homingPower":7,
+		"length": 3,
+		"reload": 7,
+		"alternate": false,
+		"bullet": "missileExplosive"
+	}
+}
