@@ -3,8 +3,8 @@
 	"description": "A drill made out of opore.",
 	"type": "Drill",
 	"size": 4,
-	"tier": 4,
-	"drillTime": 1.0,
+	"tier": 5,
+	"drillTime": 200.0,
 	"consumes": {
 		"power": 3.0,
 		"liquid": {

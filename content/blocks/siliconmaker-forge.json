@@ -12,7 +12,7 @@
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 0.7,
+		"power": 1.5,
 		"items": {
 			"items": [
 				{ "item": "graphite", "amount": 10 }

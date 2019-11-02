@@ -13,11 +13,10 @@
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
 	"rotateSpeed": 50,
-	"range": 500,
+	"range": 290,
 	"consumes": {
-		"power": 3.0,
 		"liquid": {
-			"liquid": "liquid-holyore", 
+			"liquid": "liquid-voidore", 
 			"amount": 0.1,
 			"booster": true
 		}
@@ -25,7 +24,7 @@
 	"ammo": {
 		"voidore": {
 			"speed": 7,
-			"damage": 400,
+			"damage": 69,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
 			"shootEffect": "shootBig",

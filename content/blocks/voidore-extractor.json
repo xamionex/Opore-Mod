@@ -15,7 +15,7 @@
 	"updateEffect": "pulverize",
     "updateEffectChance": 0.08,
 	"consumes": {
-		"power": 4.5,
+		"power": 4.0,
 		"items": {
 			"items": [
                 { "item": "thorium", "amount": 20 }

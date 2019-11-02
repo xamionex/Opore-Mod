@@ -5,7 +5,7 @@
 	"mech": "ho-mech",
 	"size": 2,
 	"consumes": {
-		"power": 0.7
+		"power": 0.9
 	},
 	"category": "upgrade",
 	"research": "wraith-factory",

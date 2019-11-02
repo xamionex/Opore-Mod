@@ -3,10 +3,10 @@
 	"description": "A Holy drill made out of holyore.",
 	"type": "Drill",
 	"size": 4,
-	"tier": 4,
-	"drillTime": 1.0,
+	"tier": 5,
+	"drillTime": 150.0,
 	"consumes": {
-		"power": 3.0,
+		"power": 3.2,
 		"liquid": {
 			"liquid": "liquid-holyore", 
 			"amount": 0.1,

@@ -5,7 +5,7 @@
 	"mech": "op-mech",
 	"size": 2,
 	"consumes": {
-		"power": 0.7
+		"power": 0.8
 	},
 	"category": "upgrade",
 	"research": "wraith-factory",

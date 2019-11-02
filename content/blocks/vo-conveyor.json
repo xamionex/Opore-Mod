@@ -9,6 +9,6 @@
 		{"item": "voidore", "amount": 3}
 	],
 	"category": "distribution",
-	"speed": 6.0,
+	"speed": 0.43,
 	"research": "titanium-conveyor"
 }

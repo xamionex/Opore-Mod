@@ -5,14 +5,14 @@
 	"health": 2000,
 	"size": 1,
 	"reload": 8.0,
-	"range": 300,
+	"range": 180,
 	"ammoUseEffect": "shellEjectSmall",
 	"inaccuracy": 1,
 	"rotatespeed": 12,
 	"ammo": {
 		"voidore": {
 			"speed": 3.0,
-			"damage": 60.0,
+			"damage": 49.0,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
 			"shootEffect": "shootSmall",
@@ -21,7 +21,7 @@
 		},
 		"graphite": {
 			"speed": 3.0,
-			"damage": 55.0,
+			"damage": 45.0,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
 			"shootEffect": "shootSmall",
