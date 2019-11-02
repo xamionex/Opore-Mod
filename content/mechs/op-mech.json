@@ -11,7 +11,7 @@
 	"weapon": {
 		"name": "oporegun",
 		"length": 3,
-		"reload": 4,
+		"reload": 9,
 		"alternate": false,
 		"bullet": "lightning"
 	}
