@@ -4,14 +4,14 @@
 	"description": "A Holy Duo made out of holyore.",
 	"health": 1700,
 	"size": 1,
-	"reload": 7,
-	"range": 500,
+	"reload": 8.5,
+	"range": 250,
 	"ammoUseEffect": "shellEjectSmall",
 	"inaccuracy": 1,
 	"rotatespeed": 12,
 	"ammo": {
 		"holyore": {
-			"speed": 10.0,
+			"speed": 3.0,
 			"damage": 48.0,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
@@ -20,7 +20,7 @@
 			"ammoMultiplier": 5
 		},
 		"graphite": {
-			"speed": 7.0,
+			"speed": 3.0,
 			"damage": 35.0,
 			"bulletWidth": 16,
 			"bulletHeight": 21,

@@ -24,7 +24,7 @@
 	},
 	"ammo": {
 		"holyore": {
-			"speed": 15,
+			"speed": 6,
 			"damage": 300,
 			"bulletWidth": 16,
 			"bulletHeight": 21,

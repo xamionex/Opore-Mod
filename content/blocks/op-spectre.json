@@ -13,7 +13,7 @@
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
 	"rotateSpeed": 50,
-	"range": 300,
+	"range": 250,
 	"consumes": {
 		"power": 3.0,
 		"liquid": {
@@ -24,7 +24,7 @@
 	},
 	"ammo": {
 		"opore": {
-			"speed": 30,
+			"speed": 6,
 			"damage": 225,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
@@ -38,7 +38,7 @@
 			"backColor": "ff0000"
 		},
 		"azurite": {
-			"speed": 30,
+			"speed": 6,
 			"damage": 185,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
@@ -50,7 +50,7 @@
 			"backColor": "ff0000"
 		},
 		"frazzure": {
-			"speed": 30,
+			"speed": 6,
 			"damage": 205,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
