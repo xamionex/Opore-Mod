@@ -1,12 +1,11 @@
 {
 	"type": "Fracker",
 	"name": "Voidore Extractor",
-	"description": "Extracts voidore from the ground using thorium and water, but instead of the ore, it extracts the liquid.",
+	"description": "Extracts voidore from the ground using power, but instead of the ore, it extracts the liquid.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"result": "liquid-voidore",
 	"size": 3,
-    "liquidCapacity": 30,
     "atttribute": "oil",
 	"hasPower": true,
 	"hasLiquids": true,
@@ -16,15 +15,6 @@
     "updateEffectChance": 0.08,
 	"consumes": {
 		"power": 4.0,
-		"items": {
-			"items": [
-                { "item": "thorium", "amount": 20 }
-			]
-		},
-		"liquid": {
-			"liquid": "water",
-			"amount": 1.0
-		}
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 50 },

@@ -42,6 +42,7 @@
 		{ "item": "titanium", "amount": 20 },
 		{ "item": "silicon", "amount": 30 }
 	],
-	"category": "turret"
+	"category": "turret",
+	"research": "op-spectre",
 	"shootSound": "shootBig"
 }
