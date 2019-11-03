@@ -24,13 +24,11 @@
 		}
 	},
 	"requirements": [
-		{ "item": "thorium", "amount": 50 },
-		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 80 },
-		{ "item": "silicon", "amount": 60 }
+		{ "item": "lead", "amount": 70 },
 	],
 	"category": "crafting",
-	"research": "blast-mixer",
+	"research": "ho-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

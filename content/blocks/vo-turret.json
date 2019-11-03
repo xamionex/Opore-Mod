@@ -33,5 +33,5 @@
 		{ "item": "voidore", "amount": 25 },
 	],
 	"category": "turret",
-	"research": "duo"
+	"research": "ho-turret"
 }

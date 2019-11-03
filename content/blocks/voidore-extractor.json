@@ -33,7 +33,7 @@
 		{ "item": "metaglass", "amount": 50 }
 	],
 	"category": "crafting",
-	"research": "oil-extractor",
+	"research": "holyore-extractor",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

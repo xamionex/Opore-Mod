@@ -15,7 +15,7 @@
 		}
 	},
 	"category": "units",
-	"research": "wraith-factory",
+	"research": "ho-mechunit-factory",
 	"requirements": [
 		{ "item": "voidore", "amount": 120 },
 		{ "item": "silicon", "amount": 40 },

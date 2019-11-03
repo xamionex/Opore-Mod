@@ -8,7 +8,7 @@
 		"power": 1.0
 	},
 	"category": "upgrade",
-	"research": "wraith-factory",
+	"research": "ho-mech-pad",
 	"requirements": [
 		{ "item": "voidore", "amount": 120 },
 		{ "item": "silicon", "amount": 40 },

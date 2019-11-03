@@ -15,7 +15,7 @@
 		"power": 1.0,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 10 }
+				{ "item": "thorium", "amount": 15 }
 			]
 		},
 		"liquid": {
@@ -24,13 +24,11 @@
 		}
 	},
 	"requirements": [
-		{ "item": "thorium", "amount": 50 },
-		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
-		{ "item": "silicon", "amount": 60 }
+		{ "item": "thorium", "amount": 60 },
+		{ "item": "lead", "amount": 60 },
 	],
 	"category": "crafting",
-	"research": "blast-mixer",
+	"research": "opore-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

@@ -8,7 +8,7 @@
 		"power": 0.9
 	},
 	"category": "upgrade",
-	"research": "wraith-factory",
+	"research": "op-mech-pad",
 	"requirements": [
 		{ "item": "holyore", "amount": 100 },
 		{ "item": "silicon", "amount": 40 },

@@ -1,0 +1,30 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Opore Impact Reactor",
+	"description": "An impact reactor made out of opore.",
+	"size": 5,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 30,
+	"powerProduction": 135.0,
+	"consumes": {
+		"power": 25.0
+		"items": {
+			"items": [
+				{ "item": "opore", "amount": 1 }
+			],
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 500 },
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "graphite", "amount": 400 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "surge-alloy", "amount": 80 },
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "opore", "amount": 500 }
+	],
+	"category": "power",
+	"research": "impact-reactor"
+}

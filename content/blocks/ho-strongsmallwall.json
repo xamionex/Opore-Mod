@@ -8,5 +8,5 @@
 		{ "item": "holyore", "amount": 125 }
 	],
 	"category": "defense",
-	"research": "copper-wall"
+	"research": "op-strongsmallwall"
 }

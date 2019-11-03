@@ -15,7 +15,7 @@
 		}
 	},
 	"category": "units",
-	"research": "wraith-factory",
+	"research": "opmechunit-factory",
 	"requirements": [
 		{ "item": "holyore", "amount": 100 },
 		{ "item": "silicon", "amount": 40 },

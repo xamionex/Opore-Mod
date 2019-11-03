@@ -19,5 +19,5 @@
 		{ "item": "graphite", "amount": 20 }
 	],
 	"category": "production",
-	"research": "laser-drill"
+	"research": "op-drill"
 }

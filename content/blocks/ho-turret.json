@@ -33,5 +33,5 @@
 		{ "item": "holyore", "amount": 15 },
 	],
 	"category": "turret",
-	"research": "duo"
+	"research": "op-turret"
 }

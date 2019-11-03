@@ -12,5 +12,5 @@
 		{ "item": "thorium", "amount": 40 }
 	],
 	"category": "effect",
-	"research": "vault"
+	"research": "op-vault"
 }

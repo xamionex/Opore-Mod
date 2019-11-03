@@ -18,5 +18,5 @@
     		"block": "opore-forge"
     	}
     ],
-    "resources": ["copper", "titanium", "lead", "coal", "sand", "thorium","opore"]
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore"]
 }
