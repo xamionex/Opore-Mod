@@ -4,6 +4,8 @@
 	"speed": 1.0,
 	"boostSpeed": 1.2,
 	"buildPower": 7.0,
+	"drillPower": 4.0,
+	"mineSpeed": 4.0,
 	"engineColor": "666495",
 	"flying": false,
 	"health": 1300,

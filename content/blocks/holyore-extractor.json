@@ -22,7 +22,7 @@
 		{ "item": "silicon", "amount": 60 },
 		{ "item": "metaglass", "amount": 50 }
 	],
-	"category": "crafting",
+	"category": "production",
 	"research": "opore-extractor",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5

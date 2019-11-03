@@ -11,16 +11,17 @@
 	"warmupSpeed": 0.001,
 	"itemDuration": 30,
 	"itemCapacity": 30,
+	"craftTime": 60,
 	"powerProduction": 135.0,
 	"consumes": {
 		"power": 25.0
 		"items": {
 			"items": [
-				{ "item": "voidore", "amount": 5 },
-				{ "item": "holyore", "amount": 5 },
-				{ "item": "opore", "amount": 5 },
-				{ "item": "frazzure", "amount": 5 },
-				{ "item": "azurite", "amount": 5 }
+				{ "item": "voidore", "amount": 1 },
+				{ "item": "holyore", "amount": 1 },
+				{ "item": "opore", "amount": 1 },
+				{ "item": "frazzure", "amount": 1 },
+				{ "item": "azurite", "amount": 1 }
 			],
 			"optional": true
 		}
