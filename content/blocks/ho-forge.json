@@ -20,7 +20,7 @@
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 0.2
+			"amount": 0.1
 		}
 	},
 	"requirements": [

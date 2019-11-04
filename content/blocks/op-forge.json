@@ -20,7 +20,7 @@
 		},
 		"liquid": {
 			"liquid": "liquid-opore",
-			"amount": 0.2
+			"amount": 0.1
 		}
 	},
 	"requirements": [

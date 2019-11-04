@@ -4,7 +4,7 @@
 	"description": "Uses thorium to make Azurite, a highly flammable ore",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
-	"outputItem": {"item": "azurite", "amount": 1},
+	"outputItem": {"item": "azurite", "amount": 3},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,12 +15,12 @@
 		"power": 0.9,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 10 }
+				{ "item": "thorium", "amount": 5 }
 			]
 		},
 		"liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.2
+			"amount": 0.1
 		}
 	},
 	"requirements": [

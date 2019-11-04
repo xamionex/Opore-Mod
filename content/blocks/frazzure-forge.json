@@ -1,10 +1,9 @@
 {
 	"type": "GenericSmelter",
-	"name": "Voidore Forge",
-	"description": "this makes regular thorium and water into voidore",
-	"liquidCapacity": 50,
+	"name": "Frazzure Forge",
+	"description": "this makes regular frazzure ore, a frozen ore.",
 	"itemCapacity": 50,
-	"outputItem": {"item": "voidore", "amount": 5},
+	"outputItem": {"item": "frazzure", "amount": 3},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -12,23 +11,24 @@
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 1.2,
+		"power": 0.9,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 10 }
+				{ "item": "copper", "amount": 2 }
 			]
 		},
 		"liquid": {
-			"liquid": "water",
+			"liquid": "cryofluid",
 			"amount": 0.1
 		}
 	},
 	"requirements": [
+		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 80 },
-		{ "item": "lead", "amount": 70 },
+		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "ho-forge",
+	"research": "blast-mixer",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
