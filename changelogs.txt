@@ -1,3 +1,6 @@
+Update 28.4: Fixed Multiore Impact Reactor not needing items
+Update 28.3: Changed Multiore Impact Reactor using 1500 power to 900 power
+Update 28.2: Fixed Multiore Impact Reactor taking items every 0.5 seconds
 Update 28.1: Updated preview pictures and added changelogs.txt in mod folder
 Update 28: Added Opore Meltdown
 Update 27.9: Added weapons to mech units
