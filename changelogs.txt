@@ -1,3 +1,4 @@
+Update 28.1: Updated preview pictures and added changelogs.txt in mod folder
 Update 28: Added Opore Meltdown
 Update 27.9: Added weapons to mech units
 Update 27.8: Moved extractors to drill section.
