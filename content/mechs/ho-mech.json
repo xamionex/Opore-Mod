@@ -11,7 +11,7 @@
 	"health": 1300,
 	"weaponOffsetX": 4,
 	"weapon": {
-		"name": "holygun",
+		"name": "ho-mech-blaster",
 		"length": 3,
 		"reload": 7,
 		"alternate": false,

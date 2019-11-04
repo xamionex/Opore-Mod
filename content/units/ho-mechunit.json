@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "ho-mechunit-blaster",
 		"length": 4,
-		"reload": 8,
+		"reload": 7,
 		"alternate": false,
 		"bullet": "lightning"
 	}

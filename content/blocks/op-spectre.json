@@ -4,7 +4,7 @@
 	"description": "A Spectre made out of opore.",
 	"targetAir": true,
 	"targetGround": true,
-	"health": 7000,
+	"health": 4960,
 	"size": 4,
 	"inaccuracy": 0.1,
 	"reload": 6,
@@ -24,7 +24,7 @@
 	"ammo": {
 		"opore": {
 			"speed": 6,
-			"damage": 52,
+			"damage": 67,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
 			"shootEffect": "shootBig",

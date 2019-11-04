@@ -1,0 +1,15 @@
+Update 28: Added Opore Meltdown
+Update 27.9: Added weapons to mech units
+Update 27.8: Moved extractors to drill section.
+Update 27.7: Fixed mech mining speed
+Update 27.6: Fixed mechs not being able to mine
+Update 27.2-5: Renamed Opore Impact Reactor to Multiore Impact Reactor, Fixed Spectres not being able to be researched, Fixed Multiore Impact Reactor not being able to make power, Fixed Multiore Impact Reactor not having textures.
+Update 27.1: fixed Opore wasteland zone not having enemies
+Update 27: Added opore batteries, improved tech tree, fixed zone "opore wasteland" not having waves
+Update 26.2: Updated the mod description
+Update 26.1: Updated the mod description
+Update 26.1: Added special thanks list and balanced some things
+Update 26: Major balancing and some bugfixes too, including: conveyors being too fast, spectres and duos using power for some reason, forges and other production blocks using the same amount of power, drills being all the same, spectres and duos having way too high reach.
+Update 25.1-6: Balancing turrets
+Update 25.1: Updated the Opore Waste Land zone as per request of an user.
+Update 1-20: Initial upload of mod, making sure nothing is wrong, fixing many issues

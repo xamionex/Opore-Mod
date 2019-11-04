@@ -10,7 +10,7 @@
 	"weapon": {
 		"name": "op-mechunit-blaster",
 		"length": 3,
-		"reload": 0,
+		"reload": 9,
 		"alternate": false,
 		"bullet": "lightning"
 	}

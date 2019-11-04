@@ -11,7 +11,7 @@
 	"health": 1000,
 	"weaponOffsetX": 4,
 	"weapon": {
-		"name": "oporegun",
+		"name": "op-mech-blaster",
 		"length": 3,
 		"reload": 9,
 		"alternate": false,

@@ -12,7 +12,7 @@
 		"homingRange":120,
 		"homingPower":7,
 		"length": 4,
-		"reload": 8,
+		"reload": 6,
 		"alternate": false,
 		"bullet": "missileExplosive"
 	}
