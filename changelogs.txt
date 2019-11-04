@@ -1,3 +1,5 @@
+Update 28.7: Reduced forge costs
+Update 28.6: Added frazzure forge
 Update 28.5: Renamed Multiore Impact Reactor back to Opore Impact Reactor for balancing reasons (uses opore only)
 Update 28.4: Fixed Multiore Impact Reactor not needing items
 Update 28.3: Changed Multiore Impact Reactor using 1500 power to 900 power
