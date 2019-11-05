@@ -21,4 +21,19 @@ Update 26.1: Added special thanks list and balanced some things
 Update 26: Major balancing and some bugfixes too, including: conveyors being too fast, spectres and duos using power for some reason, forges and other production blocks using the same amount of power, drills being all the same, spectres and duos having way too high reach.
 Update 25.1-6: Balancing turrets
 Update 25.1: Updated the Opore Waste Land zone as per request of an user.
+Update 25: Added Silicon Maker (takes graphite and makes silicon)
+Update 24.7: Removed second opore mech pad because it was too over powered. Update 24.8: Fixed some users crashing with the mod enabled
+Update 24.6: Fixed forges and extractors not being able to take more than 10 items (capped at 50 now)
+Update 24.5: Fixed map bug where your game crashes on editor
+Update 24.4: Improved void item looks
+Update 24.3: Fixed Void mech texture
+Update 24.2: Fixed Void mech unit texture
+Update 24.1: Fixed void liquid texture
+Update 24: Added new ore: Void Ore along with its blocks
+Update 23.2: Fixed maps not being able to be loaded while mod active, fixed grammar in mod description
+Update 23.1: Fixed Holymech missing texture
+Update 23: Added Holyore (white variant of Opore, but better)
+Update 22: Added a new zone (Opore Wastelands), Improved liquid frazzure and liquid opore textures. Issues: liquid animations have black boxes/triangles at the edge of the liquid block (reccomendation: turn off animated water).
+Update 21.1: Fixed opore ore missing texture, Improved frazzure texture
+Update 21: Made opore,azurite,frazzure appear as "Ore Blocks" instead of "Floor Blocks" so when you use the editor generation options the ore modifier will show them.
 Update 1-20: Initial upload of mod, making sure nothing is wrong, fixing many issues
