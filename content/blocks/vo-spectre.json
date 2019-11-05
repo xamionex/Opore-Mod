@@ -4,11 +4,11 @@
 	"description": "A Void Spectre made out of voidore.",
 	"targetAir": true,
 	"targetGround": true,
-	"health": 6000,
+	"health": 10000,
 	"size": 4,
 	"inaccuracy": 0.1,
-	"reload": 7,
-	"shots": 2,
+	"reload": 5,
+	"shots": 4,
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
@@ -39,8 +39,11 @@
 	},
 	"requirements": [
 		{ "item": "voidore", "amount": 550 },
-		{ "item": "titanium", "amount": 20 },
-		{ "item": "silicon", "amount": 30 }
+		{ "item": "copper", "amount": 450 },
+		{ "item": "graphite", "amount": 400 },
+		{ "item": "thorium", "amount": 350 },
+		{ "item": "plastanium", "amount": 275 },
+		{ "item": "surge-alloy", "amount": 450 }
 	],
 	"category": "turret",
 	"research": "ho-spectre",

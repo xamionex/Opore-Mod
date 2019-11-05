@@ -8,7 +8,7 @@
 	"size": 4,
 	"inaccuracy": 0.1,
 	"reload": 6,
-	"shots": 2,
+	"shots": 3,
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
@@ -39,8 +39,11 @@
 	},
 	"requirements": [
 		{ "item": "holyore", "amount": 500 },
-		{ "item": "titanium", "amount": 20 },
-		{ "item": "silicon", "amount": 30 }
+		{ "item": "copper", "amount": 425 },
+		{ "item": "graphite", "amount": 375 },
+		{ "item": "thorium", "amount": 325 },
+		{ "item": "plastanium", "amount": 250 },
+		{ "item": "surge-alloy", "amount": 425 }
 	],
 	"category": "turret",
 	"research": "op-spectre",

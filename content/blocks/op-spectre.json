@@ -62,9 +62,12 @@
 		}
 	},
 	"requirements": [
-		{ "item": "opore", "amount": 100 },
-		{ "item": "titanium", "amount": 20 },
-		{ "item": "silicon", "amount": 30 }
+		{ "item": "opore", "amount": 300 },
+		{ "item": "copper", "amount": 400 },
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "plastanium", "amount": 225 },
+		{ "item": "surge-alloy", "amount": 400 }
 	],
 	"category": "turret",
 	"research": "spectre",

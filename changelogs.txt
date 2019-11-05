@@ -1,3 +1,5 @@
+Update 28.9: Fixed void spectre not being the best
+Update 28.8: Made spectres cost more
 Update 28.7: Reduced forge costs
 Update 28.6: Added frazzure forge
 Update 28.5: Renamed Multiore Impact Reactor back to Opore Impact Reactor for balancing reasons (uses opore only)
