@@ -12,6 +12,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 5 Nov @ 9:29am Update 29: Improved Preview.png (logo)
 * 5 Nov @ 8:31am Update 28.9: Fixed void spectre not being the best
 * 5 Nov @ 8:31am Update 28.8: Made spectres cost more
 * 4 Nov @ 6:31pm Update 28.7: Reduced forge costs
