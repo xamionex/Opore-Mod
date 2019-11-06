@@ -71,5 +71,5 @@
 	],
 	"category": "turret",
 	"research": "spectre",
-	"shootSound": "shootBig"
+	"shootSound": "bigshot"
 }

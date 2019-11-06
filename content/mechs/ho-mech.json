@@ -6,14 +6,14 @@
 	"buildPower": 7.0,
 	"drillPower": 4.0,
 	"mineSpeed": 4.0,
-	"engineColor": "666495",
+	"engineColor": "cacccb",
 	"flying": false,
 	"health": 1300,
 	"weaponOffsetX": 4,
 	"weapon": {
 		"name": "ho-mech-blaster",
 		"length": 3,
-		"reload": 7,
+		"reload": 16,
 		"alternate": false,
 		"bullet": "lightning"
 	}

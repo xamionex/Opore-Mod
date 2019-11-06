@@ -6,15 +6,16 @@
 	"buildPower": 5.0,
 	"drillPower": 3.0,
 	"mineSpeed": 3.0,
-	"engineColor": "666495",
+	"engineColor": "e0190b",
 	"flying": false,
 	"health": 1000,
+	"healPercent": 4,
 	"weaponOffsetX": 4,
 	"weapon": {
 		"name": "op-mech-blaster",
 		"length": 3,
-		"reload": 9,
+		"reload": 17,
 		"alternate": false,
-		"bullet": "lightning"
+		"bullet": "healBullet"
 	}
 }

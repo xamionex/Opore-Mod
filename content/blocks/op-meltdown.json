@@ -11,8 +11,8 @@
 	"size": 4,
 	"damage": 1000,
 	"inaccuracy": 0.1,
-	"reload": 14,
-	"shots": 2,
+	"reload": 2,
+	"shots": 1,
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
@@ -20,7 +20,6 @@
 	"chargeTime": 30,
 	"chargeEffects": 5,
 	"chargeMaxDelay": 10,
-	"chargeTime": 30,
 	"range": 200,
 	"requirements": [
 		{ "item": "opore", "amount": 100 },
@@ -32,5 +31,5 @@
 	],
 	"category": "turret",
 	"research": "meltdown",
-	"shootSound": "shootBig"
+	"shootSound": "beam"
 }

@@ -6,7 +6,7 @@
 	"buildPower": 7.0,
 	"drillPower": 5.0,
 	"mineSpeed": 5.0,
-	"engineColor": "666495",
+	"engineColor": "252625",
 	"flying": false,
 	"health": 1300,
 	"weaponOffsetX": 4,
@@ -15,7 +15,7 @@
 		"homingRange":120,
 		"homingPower":7,
 		"length": 3,
-		"reload": 6,
+		"reload": 15,
 		"alternate": false,
 		"bullet": "missileExplosive"
 	}
