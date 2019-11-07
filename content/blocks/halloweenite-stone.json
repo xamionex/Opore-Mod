@@ -1,0 +1,7 @@
+{
+	"type": "OreBlock",
+	"name": "Halloweenite Ore",
+	"itemDrop": "halloweenite",
+	"variants": 3,
+	"playerUnmineable": true
+}

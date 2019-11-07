@@ -1,0 +1,23 @@
+{
+	"name": "Halloweenite Drill",
+	"description": "A Halloweenite drill made out of halloweenite.",
+	"type": "Drill",
+	"size": 4,
+	"tier": 5,
+	"drillTime": 80.0,
+	"consumes": {
+		"power": 3.5,
+		"liquid": {
+			"liquid": "liquid-halloweenite", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "halloweenite", "amount": 60 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "vo-drill"
+}

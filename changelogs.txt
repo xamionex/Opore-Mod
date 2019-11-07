@@ -1,6 +1,6 @@
-X XXX @ X:XXxx Update 30: (Major)
-6 Nov @ 10:33am Update 29.2: Fixed meltdown taking a long time to fire
-6 Nov @ 10:33am Update 29.1: Nerfed and retextured mechs
+7 Nov @ 3:23am Update 30: (Major) Added opore arc, added opore fuse, added opore ripple, added halloweenite set, nerfed conveyors, added new zone, fixed mod.json (invalid version).
+6 Nov @ 10:37am Update 29.2: Fixed meltdown taking a long time to fire
+6 Nov @ 10:37am Update 29.1: Nerfed and retextured mechs
 5 Nov @ 9:29am Update 29: Improved Preview.png (logo)
 5 Nov @ 8:31am Update 28.9: Fixed void spectre not being the best
 5 Nov @ 8:31am Update 28.8: Made spectres cost more

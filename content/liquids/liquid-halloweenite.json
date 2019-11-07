@@ -1,0 +1,8 @@
+{
+	"name": "Halloweenite Liquid",
+	"description": "A Halloweenite liquid, The halloween spirit.",
+	"temperature": 0.9,
+    "viscosity": 0.8,
+    "effect": "burning",
+    "color": "a4a2bd"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Halloweenite",
+	"description": "Halloweenite, The halloween spirit.",
+	"hardness": 5,
+	"cost": 2.0,
+	"color": "ff0087"
+}

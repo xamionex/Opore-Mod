@@ -1,0 +1,17 @@
+{
+	"name": "Halloweenite Mech Pad",
+	"description": "Become a halloweenite mech.",
+	"type": "MechPad",
+	"mech": "ha-mech",
+	"size": 2,
+	"consumes": {
+		"power": 1.0
+	},
+	"category": "upgrade",
+	"research": "vo-mech-pad",
+	"requirements": [
+		{ "item": "halloweenite", "amount": 120 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 50 },
+	]
+}

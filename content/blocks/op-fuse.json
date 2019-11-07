@@ -1,0 +1,37 @@
+{
+	"type": "LaserTurret",
+	"name": "Opore Fuse",
+	"description": "A Fuse made out of opore.",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquids": true, 
+    "shootType": "lancerLaser",
+    "health": 2000,
+    "size": 3,
+    "inaccuracy": 0,
+    "reload": 1,
+	"shots": 3,
+    "recoil": 1,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 100,
+	"ammo": {
+		"opore": {
+			"speed": 3.0,
+			"damage": 155.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "opore", "amount": 150 },
+		{ "item": "copper", "amount": 225 },
+		{ "item": "graphite", "amount": 225 },
+		{ "item": "thorium", "amount": 100 }
+	],
+	"category": "turret",
+	"research": "fuse"
+}

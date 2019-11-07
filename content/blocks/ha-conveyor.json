@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Halloweenite conveyor",
+	"description": "A Halloweenite conveyor, faster than the holy conveyor.",
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "halloweenite", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.33,
+	"research": "vo-conveyor"
+}

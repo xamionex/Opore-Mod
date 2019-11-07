@@ -13,8 +13,8 @@
 	"itemDuration": 135,
 	"itemCapacity": 30,
 	"powerProduction": 135.0,
+	"powerUse": 15,
 	"consumes": {
-		"power": 15.0
 		"items": {
 			"items": [
 				{ "item": "opore", "amount": 1 }

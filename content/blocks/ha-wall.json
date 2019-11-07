@@ -1,0 +1,12 @@
+{
+	"name": "halloweenite Wall",
+	"description": "A Halloweenite wall, Very durable, More durable than the void wall.",
+	"type": "Wall",
+	"health": 7400,
+	"size": 2,
+	"requirements": [
+		{ "item": "halloweenite", "amount": 175 }
+	],
+	"category": "defense",
+	"research": "vo-wall"
+}

@@ -3,9 +3,12 @@
 	"description": "Survive.",
 	"loadout": "basicFoundation",
     "startingItems": [
-    	{"item": "copper", "amount": 50}
+    	{"item": "copper", "amount": 1500},
+    	{"item": "lead", "amount": 1700},
+    	{"item": "metaglass", "amount": 350},
+    	{"item": "silicon", "amount": 600}
     ],
-    "conditionWave": 30,
+    "conditionWave": 10,
     "launchPeriod": 10,
     "requirements": [
     	{

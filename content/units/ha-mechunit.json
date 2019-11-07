@@ -1,0 +1,19 @@
+{
+	"type": "flyingUnit",
+	"name": "Halloweenite Mech Unit",
+	"description": "A halloweenite mech unit.",
+	"speed": 0.7,
+	"flying": true,
+	"health": 1300,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "ha-mechunit-blaster",
+		"homingRange":120,
+		"homingPower":7,
+		"length": 4,
+		"reload": 6,
+		"alternate": false,
+		"bullet": "missileExplosive"
+	}
+}

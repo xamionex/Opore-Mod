@@ -1,0 +1,29 @@
+{
+    "type": "LaserTurret",
+    "name": "Opore Arc",
+    "description": "An arc turret made out of opore.",
+    "targetAir": false,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquid": false,
+	"powerUse": 3,
+    "shootType": "arc",
+    "health": 260,
+    "size": 1,
+    "inaccuracy": 0,
+    "reload": 0.0001,
+	"shots": 2,
+    "recoil": 2,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 100,
+    "shootEffect": "lightningShoot",
+    "requirements": [
+        { "item": "opore", "amount": 75 },
+        { "item": "copper", "amount": 35 },
+        { "item": "lead", "amount": 50 }
+    ],
+    "category": "turret",
+    "shootSound": "spark",
+	"research": "arc"
+}

@@ -1,0 +1,51 @@
+{
+	"type": "DoubleTurret",
+	"name": "Halloweenite Spectre",
+	"description": "A Halloweenite Spectre made out of halloweenite.",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 12000,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 4,
+	"shots": 4,
+	"recoil": 3,
+	"ammoUseEffect": "shellEjectBig",
+	"shootCone": 24,
+	"rotateSpeed": 50,
+	"range": 295,
+	"consumes": {
+		"liquid": {
+			"liquid": "liquid-halloweenite", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"ammo": {
+		"halloweenite": {
+			"speed": 8,
+			"damage": 75,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "burning",
+			"homingRange":120,
+			"homingPower":7,
+			"ammoMultiplier": 2,
+			"frontColor": "f54242",
+			"backColor": "ff0000"
+		}
+	},
+	"requirements": [
+		{ "item": "halloweenite", "amount": 550 },
+		{ "item": "copper", "amount": 450 },
+		{ "item": "graphite", "amount": 400 },
+		{ "item": "thorium", "amount": 350 },
+		{ "item": "plastanium", "amount": 275 },
+		{ "item": "surge-alloy", "amount": 450 }
+	],
+	"category": "turret",
+	"research": "vo-spectre",
+	"shootSound": "shootBig"
+}

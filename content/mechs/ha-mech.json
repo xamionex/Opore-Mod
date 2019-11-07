@@ -1,0 +1,22 @@
+{
+	"name": "Halloweenite Mech",
+	"description": "Become a halloweenite mech.",
+	"speed": 1.1,
+	"boostSpeed": 1.3,
+	"buildPower": 8.0,
+	"drillPower": 5.0,
+	"mineSpeed": 6.0,
+	"engineColor": "252625",
+	"flying": false,
+	"health": 1500,
+	"weaponOffsetX": 4,
+	"weapon": {
+		"name": "ha-mech-blaster",
+		"homingRange":120,
+		"homingPower":7,
+		"length": 3,
+		"reload": 14,
+		"alternate": false,
+		"bullet": "missileExplosive"
+	}
+}
