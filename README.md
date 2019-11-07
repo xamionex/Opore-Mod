@@ -3,18 +3,16 @@ Vote for the next update: http://www.strawpoll.me/18895343
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview3.png)
-Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. 
-This is actually my first mod, hope you like it because i had alot of issues while making this. 
-Special thanks: People from the discord server: Violet#5020, simon#8156, wewemaster#8854, Nope.avi#4037, HNU Founder.lua#5046, omegaDM#0155, 
-People from the steam community: Tibault, 月之殇. 
-Everyone that reports a bug/unbalanced item will be added to the special thanks list 
-(if you dont want to be added just say 'dont add me on the special thanks list')
+Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this. (I will be updating slower because i have a life, sorry but i will still be accepting requests like balancing issues) Special thanks: People from the discord server: Violet#5020, simon#8156, wewemaster#8854, Nope.avi#4037, HNU Founder.lua#5046, omegaDM#0155, People from the steam community: Tibault, 月之殇, the_red_soul. Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the special thanks list') NOTE: Update 30+: Some items will be broken because they cannot be done any other way, like an example the arc. It shoots too slow, but it cannot be faster (maybe anuke will fix the way we edit power turrets some day)
 I have uploaded this to the steam workshop and i can indeed update it when i please, 
 i will be updating here but its kind of delayed, 
 if you have the steam version check https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 7 Nov @ 3:23am Update 30: (Major) Added opore arc, added opore fuse, added opore ripple, added halloweenite set, nerfed conveyors, added new zone, fixed mod.json (invalid version).
+* 6 Nov @ 10:37am Update 29.2: Fixed meltdown taking a long time to fire
+* 6 Nov @ 10:37am Update 29.1: Nerfed and retextured mechs
 * 5 Nov @ 9:29am Update 29: Improved Preview.png (logo)
 * 5 Nov @ 8:31am Update 28.9: Fixed void spectre not being the best
 * 5 Nov @ 8:31am Update 28.8: Made spectres cost more
