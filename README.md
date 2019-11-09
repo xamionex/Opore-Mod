@@ -10,6 +10,8 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 9 Nov @ 1:28am Update 30.2: Fixed some grammar errors in wall descriptions
+* 9 Nov @ 1:28am Update 30.1: Changed tech tree order for walls
 * 7 Nov @ 3:23am Update 30: (Major) Added opore arc, added opore fuse, added opore ripple, added halloweenite set, nerfed conveyors, added new zone, fixed mod.json (invalid version).
 * 6 Nov @ 10:37am Update 29.2: Fixed meltdown taking a long time to fire
 * 6 Nov @ 10:37am Update 29.1: Nerfed and retextured mechs
