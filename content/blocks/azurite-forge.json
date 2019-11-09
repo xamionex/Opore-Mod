@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Azurite Forge",
-	"description": "Uses thorium to make Azurite, a highly flammable ore",
+	"description": "This mixes thorium and cryofluid to make azurite.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "azurite", "amount": 3},
@@ -15,7 +15,7 @@
 		"power": 0.9,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 5 }
+				{ "item": "thorium", "amount": 2 }
 			]
 		},
 		"liquid": {

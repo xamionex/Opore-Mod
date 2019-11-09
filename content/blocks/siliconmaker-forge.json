@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Silicon Maker",
-	"description": "Extracts materials for silicon from the ground using graphite and then makes silicon.",
+	"description": "Extracts materials for silicon from the ground using graphite to make silicon.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "silicon", "amount": 10},

@@ -1,6 +1,6 @@
 {
 	"name": "Halloweenite Mech",
-	"description": "Become a halloweenite mech.",
+	"description": "An incredibly advanced attack mech.",
 	"speed": 1.1,
 	"boostSpeed": 1.3,
 	"buildPower": 8.0,

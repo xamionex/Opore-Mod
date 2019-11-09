@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Opore Forge",
-	"description": "this makes regular opore",
+	"description": "This mixes thorium and a little cryofluid to make opore",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "opore", "amount": 10},
@@ -15,12 +15,12 @@
 		"power": 0.8,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 20 }
+				{ "item": "thorium", "amount": 10 }
 			]
 		},
 		"liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.1
+			"amount": 0.05
 		}
 	},
 	"requirements": [

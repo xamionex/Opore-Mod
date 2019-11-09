@@ -1,6 +1,6 @@
 {
 	"name": "Halloweenite Mech Pad",
-	"description": "Become a halloweenite mech.",
+	"description": "Provides transformation into an incredibly advanced attack mech.",
 	"type": "MechPad",
 	"mech": "ha-mech",
 	"size": 2,

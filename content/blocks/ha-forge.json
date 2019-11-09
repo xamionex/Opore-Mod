@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Halloweenite Forge",
-	"description": "this makes regular thorium and water into halloweenite",
+	"description": "This mixes thorium and water to make halloweenite",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "halloweenite", "amount": 5},

@@ -1,6 +1,6 @@
 {
 	"type": "Conveyor",
-	"name": "Void conveyor",
+	"name": "Void Conveyor",
 	"description": "A Void conveyor, faster than the holy conveyor.",
 	"requirements": [
 		{"item": "titanium", "amount": 3},

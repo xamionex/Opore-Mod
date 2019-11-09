@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Halloweenite conveyor",
-	"description": "A Halloweenite conveyor, faster than the holy conveyor.",
+	"name": "Halloweenite Conveyor",
+	"description": "A Halloweenite conveyor, faster than the void conveyor.",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},

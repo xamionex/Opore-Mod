@@ -11,13 +11,15 @@
 	"plasmas": 4,
 	"warmupSpeed": 0.001,
 	"itemDuration": 135,
-	"itemCapacity": 30,
-	"powerProduction": 135.0,
-	"powerUse": 15,
+	"itemCapacity": 50,
+	"powerProduction": 155.0,
 	"consumes": {
+	    "power": 15.0,
 		"items": {
 			"items": [
-				{ "item": "megaopore", "amount": 1 }
+				{ "item": "megaopore", "amount": 1 },
+				{ "item": "azurite", "amount": 5 },
+				{ "item": "frazzure", "amount": 5 },
 				{ "item": "opore", "amount": 5 }
 			],
 			"optional": false

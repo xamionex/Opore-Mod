@@ -1,6 +1,6 @@
 {
 	"name": "Opore Mech Pad",
-	"description": "Opore madness.",
+	"description": "Provides transformation into an incredibly advanced ground healing mech.",
 	"type": "MechPad",
 	"mech": "op-mech",
 	"size": 2,

@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "Megaopore Forge",
-	"description": "this makes regular opore into mega opore",
+	"name": "Mega Opore Forge",
+	"description": "This mixes solid and liquid opore to make mega opore",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "megaopore", "amount": 1},
@@ -15,7 +15,7 @@
 		"power": 1.0,
 		"items": {
 			"items": [
-				{ "item": "opore", "amount": 50 }
+				{ "item": "opore", "amount": 10 }
 			]
 		},
 		"liquid": {

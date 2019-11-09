@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Holy conveyor",
-	"description": "A holy conveyor, praised by Jesus himself.",
+	"name": "Holy Conveyor",
+	"description": "A Holy conveyor, faster than the opore conveyor.",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},

@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Opore conveyor",
-	"description": "A conveyor made out of opore.",
+	"name": "Opore Conveyor",
+	"description": "An Opore conveyor, faster than the normal conveyors.",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},

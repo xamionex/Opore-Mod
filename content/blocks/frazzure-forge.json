@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Frazzure Forge",
-	"description": "this makes regular frazzure ore, a frozen ore.",
+	"description": "This mixes thorium and water to make frazzure.",
 	"itemCapacity": 50,
 	"outputItem": {"item": "frazzure", "amount": 3},
 	"size": 2,
@@ -14,11 +14,11 @@
 		"power": 0.9,
 		"items": {
 			"items": [
-				{ "item": "copper", "amount": 2 }
+				{ "item": "thorium", "amount": 2 }
 			]
 		},
 		"liquid": {
-			"liquid": "cryofluid",
+			"liquid": "water",
 			"amount": 0.1
 		}
 	},

@@ -1,6 +1,6 @@
 {
 	"name": "Holy Vault",
-	"description": "A holy vault thats made out of holyore, stores a large amount!",
+	"description": "A vault constructed out of holyore. Stores a huge amount of items!",
 	"type": "Vault",
 	"itemCapacity": 100000,
 	"hasItems": true,

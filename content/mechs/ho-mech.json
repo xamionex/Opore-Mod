@@ -1,6 +1,6 @@
 {
 	"name": "Holy Mech",
-	"description": "Become a blessed mech.",
+	"description": "An incredibly advanced lightning attack mech.",
 	"speed": 1.0,
 	"boostSpeed": 1.2,
 	"buildPower": 7.0,

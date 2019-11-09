@@ -1,6 +1,6 @@
 {
 	"name": "Opore Vault",
-	"description": "A vault thats made out of opore, stores a large amount!",
+	"description": "A vault constructed out of opore. Stores a large amount!",
 	"type": "Vault",
 	"itemCapacity": 75000,
 	"hasItems": true,

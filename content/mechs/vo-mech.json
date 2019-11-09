@@ -1,6 +1,6 @@
 {
 	"name": "Void Mech",
-	"description": "Become a void mech.",
+	"description": "An incredibly advanced explosive attack mech.",
 	"speed": 1.0,
 	"boostSpeed": 1.2,
 	"buildPower": 7.0,

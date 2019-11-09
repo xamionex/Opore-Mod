@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Voidore",
-	"description": "A void ore, Enlighted by the void.",
+	"description": "Void ore, Enlighted by the void.",
 	"hardness": 5,
 	"cost": 2.0,
 	"color": "ff0087"

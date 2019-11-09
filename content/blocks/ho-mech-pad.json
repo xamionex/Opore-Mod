@@ -1,6 +1,6 @@
 {
 	"name": "Holy Mech Pad",
-	"description": "Become a holy mech.",
+	"description": "Provides transformation into an incredibly advanced lightning attack mech.",
 	"type": "MechPad",
 	"mech": "ho-mech",
 	"size": 2,

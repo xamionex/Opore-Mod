@@ -1,7 +1,7 @@
 {
 	"type": "flyingUnit",
 	"name": "Halloweenite Mech Unit",
-	"description": "A halloweenite mech unit.",
+	"description": "An incredibly advanced attack mech unit.",
 	"speed": 0.7,
 	"flying": true,
 	"health": 1300,

@@ -1,6 +1,6 @@
 {
 	"name": "Liquid Opore",
-	"description": "Just like opore but a liquid.",
+	"description": "Standard Opore ore but its a liquid, extracted out of opore liquid caches or extracted from the ground using power.",
 	"temperature": 0.9,
     "viscosity": 0.8,
     "effect": "melting",

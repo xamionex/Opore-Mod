@@ -1,6 +1,6 @@
 {
 	"name": "Void Mech Pad",
-	"description": "Become a void mech.",
+	"description": "Provides transformation into an incredibly advanced explosive attack mech.",
 	"type": "MechPad",
 	"mech": "vo-mech",
 	"size": 2,

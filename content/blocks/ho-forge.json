@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Holyore Forge",
-	"description": "this makes regular thorium and water into holyore",
+	"description": "This mixes thorium and water to make holyore",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "holyore", "amount": 5},
