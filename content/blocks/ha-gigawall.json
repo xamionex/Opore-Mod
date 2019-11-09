@@ -1,6 +1,6 @@
 {
 	"name": "Gigantic Halloweenite Wall",
-	"description": "A Gigantic Halloweenite wall, More durable than the holy wall.",
+	"description": "A Gigantic Halloweenite wall, More durable than the void wall.",
 	"type": "Wall",
 	"health": 35000,
 	"size": 4,

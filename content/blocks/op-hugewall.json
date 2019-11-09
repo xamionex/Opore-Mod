@@ -1,6 +1,6 @@
 {
-	"name": "Large Opore Wall",
-	"description": "A large wall of opore. Amazingly durable!",
+	"name": "Huge Opore Wall",
+	"description": "A Huge Opore wall. Amazingly durable!",
 	"type": "Wall",
 	"health": 15000,
 	"size": 3,
@@ -8,5 +8,5 @@
 		{ "item": "opore", "amount": 360 }
 	],
 	"category": "defense",
-	"research": "copper-wall"
+	"research": "op-wall"
 }

@@ -17,7 +17,8 @@
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "opore", "amount": 1 }
+				{ "item": "megaopore", "amount": 1 }
+				{ "item": "opore", "amount": 5 }
 			],
 			"optional": false
 		}

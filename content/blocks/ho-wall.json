@@ -1,6 +1,6 @@
 {
-	"name": "Holy Wall",
-	"description": "A Holy wall, Praised by Jesus himself! Very durable, More durable than the opore wall.",
+	"name": "Large Holy Wall",
+	"description": "A Large Holy wall, More durable than the opore wall.",
 	"type": "Wall",
 	"health": 6600,
 	"size": 2,

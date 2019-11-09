@@ -1,6 +1,6 @@
 {
 	"name": "Opore Wall",
-	"description": "A small wall of opore. Very durable for a small wall!",
+	"description": "An Opore wall. More	durable than the normal walls.",
 	"type": "Wall",
 	"health": 1000,
 	"size": 1,
