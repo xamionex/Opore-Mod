@@ -10,7 +10,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 
 # Updates
 * 11 Nov @ 12:27am Update 31: Improved Preview.png
-* 10 Nov @ 11:14pm Update 30.9: Made Opore Conduits (requested but there's no point in making this because the speed cant be increased only the capacity can, as so far as i know)
+* 10 Nov @ 11:14pm Update 30.9: Made Opore Conduits (requested but there's no point in making this because the speed cant be increased only the capacity can, as far as i know)
 * 10 Nov @ 11:14pm Update 30.8: Made ores be mineable by the last drill (ex. holyore can be mined by opore drill but not from airblast)
 * 10 Nov @ 11:14pm Update 30.7: Made drills mine ores from other mods (it may not mine some)
 * 9 Nov @ 12:10pm Update 30.6: Tweaked forges, made some use more, some use less
