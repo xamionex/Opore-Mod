@@ -3,7 +3,7 @@
 	"description": "A Halloweenite drill made out of halloweenite.",
 	"type": "Drill",
 	"size": 4,
-	"tier": 5,
+	"tier": 9,
 	"drillTime": 80.0,
 	"consumes": {
 		"power": 3.5,

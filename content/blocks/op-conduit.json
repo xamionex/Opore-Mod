@@ -1,0 +1,22 @@
+{
+	"type": "Conduit",
+	"name": "Opore Conduit",
+	"description": "An Opore conduit, faster than the normal conduits.",
+	"hasLiquids": true,
+	"liquidCapacity": 22,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "opore", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.15,
+	"research": "conduit"
+}

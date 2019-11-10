@@ -3,7 +3,7 @@
 	"description": "A Holy drill made out of holyore.",
 	"type": "Drill",
 	"size": 4,
-	"tier": 5,
+	"tier": 7,
 	"drillTime": 150.0,
 	"consumes": {
 		"power": 3.2,
