@@ -1,5 +1,4 @@
 # Opore Mod
-Vote for the next update: http://www.strawpoll.me/18895343
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview3.png)
@@ -10,7 +9,6 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
-<<<<<<< HEAD
 * 11 Nov @ 12:27am Update 31: Improved Preview.png
 * 10 Nov @ 11:14pm Update 30.9: Made Opore Conduits (requested but there's no point in making this because the speed cant be increased only the capacity can, as so far as i know)
 * 10 Nov @ 11:14pm Update 30.8: Made ores be mineable by the last drill (ex. holyore can be mined by opore drill but not from airblast)
