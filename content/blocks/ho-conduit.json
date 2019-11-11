@@ -1,0 +1,22 @@
+{
+	"type": "Conduit",
+	"name": "Holy Conduit",
+	"description": "A Holy conduit, stores more than the opore conduit.",
+	"hasLiquids": true,
+	"liquidCapacity": 25,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "holyore", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.19,
+	"research": "conduit"
+}

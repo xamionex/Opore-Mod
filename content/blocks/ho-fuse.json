@@ -1,0 +1,37 @@
+{
+	"type": "LaserTurret",
+	"name": "Holy Fuse",
+	"description": "A Fuse made out of holy ore.",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquids": true, 
+    "shootType": "lancerLaser",
+    "health": 2300,
+    "size": 3,
+    "inaccuracy": 0,
+    "reload": 0.9,
+	"shots": 3,
+    "recoil": 1,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 110,
+	"ammo": {
+		"holyore": {
+			"speed": 3.0,
+			"damage": 165.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "holyore", "amount": 150 },
+		{ "item": "copper", "amount": 225 },
+		{ "item": "graphite", "amount": 225 },
+		{ "item": "thorium", "amount": 100 }
+	],
+	"category": "turret",
+	"research": "fuse"
+}

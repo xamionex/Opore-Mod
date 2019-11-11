@@ -12,8 +12,8 @@
     "powerBuffered": "10000.0"
 	},
   "requirements": [
-    { "item": "copper", "amount": "8" },
-    { "item": "lead", "amount": "40" },
-    { "item": "opore", "amount": "20" },
+    { "item": "copper", "amount": "32" },
+    { "item": "lead", "amount": "160" },
+    { "item": "opore", "amount": "80" },
   ],
 }

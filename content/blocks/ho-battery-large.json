@@ -1,0 +1,20 @@
+{
+  "type": "battery",
+  "name": "Large Holy Battery",
+  "size": 3,
+	"description": "A Large Battery made out of holy ore.",
+  "health": 2500,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "op-battery",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "1200000.0"
+	},
+  "requirements": [
+    { "item": "lead", "amount": "1280" },
+    { "item": "titanium", "amount": "640" },
+    { "item": "silicon", "amount": "640" },
+    { "item": "holyore", "amount": "300" }
+  ],
+}

@@ -12,9 +12,9 @@
     "powerBuffered": "300000.0"
 	},
   "requirements": [
-    { "item": "lead", "amount": "80" },
-    { "item": "titanium", "amount": "40" },
-    { "item": "silicon", "amount": "40" },
-    { "item": "opore", "amount": "100" }
+    { "item": "lead", "amount": "320" },
+    { "item": "titanium", "amount": "160" },
+    { "item": "silicon", "amount": "160" },
+    { "item": "opore", "amount": "150" }
   ],
 }
