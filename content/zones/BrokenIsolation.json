@@ -1,24 +1,25 @@
 {
 	"name": "Opore Crash Site",
-	"description": "You were flying in a ship but something struck you down with great force, defend yourself from enemies incoming.",
+	"description": "You were isolated from all attacks but suddenly four of your walls have been breached, defend your position.",
 	"loadout": "basicFoundation",
     "startingItems": [
-    	{"item": "copper", "amount": 1700},
-    	{"item": "lead", "amount": 1900},
-    	{"item": "metaglass", "amount": 550},
-    	{"item": "silicon", "amount": 800}
+    	{"item": "copper", "amount": 2200},
+    	{"item": "lead", "amount": 2200},
+    	{"item": "titanium", "amount": 450},
+    	{"item": "graphite", "amount": 450},
+    	{"item": "silicon", "amount": 450}
     ],
     "conditionWave": 10,
     "launchPeriod": 10,
     "requirements": [
     	{
     		"type": "ZoneWave",
-    		"zone": "OporeWasteland", 
+    		"zone": "desolateRift", 
     		"wave": 50
     	},
     	{
     		"type": "Unlock",
-    		"block": "vo-forge"
+    		"block": "ha-forge"
     	}
     ],
     "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "halloweenite"]

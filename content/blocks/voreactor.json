@@ -1,7 +1,7 @@
 {
 	"type": "ImpactReactor",
-	"name": "Holy Impact Reactor",
-	"description": "An impact reactor that uses holy ore.",
+	"name": "Void Impact Reactor",
+	"description": "An impact reactor that uses void ore.",
 	"size": 4,
 	"hasPower": true,
 	"hasItems": true,
@@ -12,15 +12,15 @@
 	"warmupSpeed": 0.001,
 	"itemDuration": 135,
 	"itemCapacity": 50,
-	"powerProduction": 165.0,
+	"powerProduction": 175.0,
 	"consumes": {
-	    "power": 20.0,
+	    "power": 25.0,
 		"items": {
 			"items": [
 				{ "item": "megaopore", "amount": 1 },
 				{ "item": "azurite", "amount": 5 },
 				{ "item": "frazzure", "amount": 5 },
-				{ "item": "holyore", "amount": 5 }
+				{ "item": "voidore", "amount": 5 }
 			],
 			"optional": false
 		}
@@ -32,8 +32,8 @@
 		{ "item": "thorium", "amount": 100 },
 		{ "item": "surge-alloy", "amount": 80 },
 		{ "item": "silicon", "amount": 300 },
-		{ "item": "holyore", "amount": 500 }
+		{ "item": "voidore", "amount": 500 }
 	],
 	"category": "power",
-	"research": "opreactor"
+	"research": "horeactor"
 }

@@ -10,6 +10,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 11 Nov @ 8:24pm Update 33: Fixed Opore Crash Site map not having waves, Added Void ore missing blocks, Added a map, Improved map descriptions
 * 11 Nov @ 10:51am Update 32: Added missing holy ore blocks (Impact, arc...), Next update is going to be adding void ore missing blocks.
 * 11 Nov @ 12:27am Update 31: Improved Preview.png
 * 10 Nov @ 11:14pm Update 30.9: Made Opore Conduits (requested but there's no point in making this because the speed cant be increased only the capacity can, as far as i know)

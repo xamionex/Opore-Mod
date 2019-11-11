@@ -1,6 +1,6 @@
 {
 	"name": "Opore Wasteland",
-	"description": "Survive.",
+	"description": "You dont know how you got here but you know the red's are enemies, protect yourself.",
 	"loadout": "basicFoundation",
     "startingItems": [
     	{"item": "copper", "amount": 1500},

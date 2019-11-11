@@ -6,7 +6,7 @@
   "health": 700,
   "canOverdrive": true,
   "category": "power",
-  "research": "power-node",
+  "research": "op-battery",
   "BuildVisibility": "shown",
   "consumes": {
     "powerBuffered": "40000.0"
