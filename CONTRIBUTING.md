@@ -1,7 +1,7 @@
 # Thanks for contributing
 I really appriciate it, keep doing it and you might help me out sometimes :)
 #### Table Contents
-* > [MIT License](##MIT-License)
+* > [MIT License](#MIT-License)
 * > [Code of Conduct](#Contributor-Covenant-Code-of-Conduct)
 
 # Contribute more by making a mod of your own
