@@ -1,7 +1,7 @@
 # Thanks for contributing
 I really appriciate it, keep doing it and you might help me out sometimes :)
-[MIT License](##MIT-License)
-[Code of Conduct](#Contributor-Covenant-Code-of-Conduct)
+> [MIT License](##MIT-License)
+> [Code of Conduct](#Contributor-Covenant-Code-of-Conduct)
 ## MIT License
 
 # Copyright (c) 2019-2020 amione
