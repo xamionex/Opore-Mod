@@ -3,6 +3,19 @@ I really appriciate it, keep doing it and you might help me out sometimes :)
 #### Table Contents
 * > [MIT License](##MIT-License)
 * > [Code of Conduct](#Contributor-Covenant-Code-of-Conduct)
+
+# Contribute more by making a mod of your own
+* > [Anuke's modding guide](https://github.com/Anuken/Mindustry/issues/809)
+* > [Anuke's modding wiki](https://mindustrygame.github.io/wiki/modding/)
+* > [Simon Woodbury Forget's unofficial modding guide](https://github.com/SimonWoodburyForget/mindustry-modding)
+
+# I would like:
+* You to keep reporting issues or request some changes
+* That everyone remains cool about what i do
+* That noone insults me
+* If you shared the word about this mod
+* If you copied and modified this mod if you want to of course and then share the modified version
+
 ## MIT License
 
 # Copyright (c) 2019-2020 amione
