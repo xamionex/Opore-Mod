@@ -11,8 +11,8 @@
 	"size": 4,
 	"damage": 1200,
 	"inaccuracy": 0.1,
-	"reload": 1.8,
-	"shots": 1,
+	"reload": 1.4,
+	"shots": 3,
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
@@ -20,6 +20,7 @@
 	"chargeTime": 30,
 	"chargeEffects": 5,
 	"chargeMaxDelay": 10,
+	"shootDuration": 250,
 	"range": 200,
 	"requirements": [
 		{ "item": "holyore", "amount": 100 },
@@ -31,5 +32,5 @@
 	],
 	"category": "turret",
 	"research": "op-meltdown",
-	"shootSound": "beam"
+	"shootSound": "laserbig"
 }

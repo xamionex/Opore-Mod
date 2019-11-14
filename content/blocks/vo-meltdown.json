@@ -11,8 +11,8 @@
 	"size": 4,
 	"damage": 1400,
 	"inaccuracy": 0.1,
-	"reload": 1.7,
-	"shots": 1,
+	"reload": 1.3,
+	"shots": 4,
 	"recoil": 3,
 	"ammoUseEffect": "shellEjectBig",
 	"shootCone": 24,
@@ -20,6 +20,7 @@
 	"chargeTime": 28,
 	"chargeEffects": 5,
 	"chargeMaxDelay": 10,
+	"shootDuration": 300,
 	"range": 205,
 	"requirements": [
 		{ "item": "voidore", "amount": 100 },
@@ -31,5 +32,5 @@
 	],
 	"category": "turret",
 	"research": "ho-meltdown",
-	"shootSound": "beam"
+	"shootSound": "laserbig"
 }

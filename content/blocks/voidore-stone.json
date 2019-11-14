@@ -3,5 +3,6 @@
 	"name": "Void Ore",
 	"itemDrop": "voidore",
 	"variants": 3,
-	"playerUnmineable": true
+	"playerUnmineable": true,
+	"color": "000000"
 }
