@@ -10,6 +10,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 14 Nov @ 11:53am Update 35: Fixed maps not having enemy spawns therefore not being able to launch, Fixed holy arc being unlocked before opore arc.
 * 14 Nov @ 1:09am Update 34: Ores now have their colors shown on item sources and minimaps instead of purple, Fixed fps loss on some maps (still an issue but less now).
 * 11 Nov @ 8:24pm Update 33: Fixed Opore Crash Site map not having waves, Added Void ore missing blocks, Added a map, Improved map descriptions
 * 11 Nov @ 10:51am Update 32: Added missing holy ore blocks (Impact, arc...), Next update is going to be adding void ore missing blocks.

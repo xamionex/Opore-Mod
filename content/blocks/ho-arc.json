@@ -25,5 +25,5 @@
     ],
     "category": "turret",
     "shootSound": "spark",
-	"research": "arc"
+	"research": "op-arc"
 }
