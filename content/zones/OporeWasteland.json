@@ -2,11 +2,29 @@
 	"name": "Opore Wasteland",
 	"description": "You dont know how you got here but you know the red's are enemies, protect yourself.",
 	"loadout": "basicFoundation",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "metaglass", "amount": 150},
+    	{"item": "silicon", "amount": 150}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "metaglass", "amount": 150},
+    	{"item": "silicon", "amount": 150}
+    ],
     "startingItems": [
-    	{"item": "copper", "amount": 1500},
-    	{"item": "lead", "amount": 1700},
-    	{"item": "metaglass", "amount": 350},
-    	{"item": "silicon", "amount": 600}
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "metaglass", "amount": 150},
+    	{"item": "silicon", "amount": 150}
+    ],
+	"defaultStartingItems": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "metaglass", "amount": 150},
+    	{"item": "silicon", "amount": 150}
     ],
     "conditionWave": 10,
     "launchPeriod": 10,

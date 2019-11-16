@@ -1,8 +1,29 @@
 {
-	"name": "Opore Crash Site",
+	"name": "Broken Isolation",
 	"description": "You were isolated from all attacks but suddenly four of your walls have been breached, defend your position.",
 	"loadout": "basicFoundation",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 2200},
+    	{"item": "lead", "amount": 2200},
+    	{"item": "titanium", "amount": 450},
+    	{"item": "graphite", "amount": 450},
+    	{"item": "silicon", "amount": 450}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 2200},
+    	{"item": "lead", "amount": 2200},
+    	{"item": "titanium", "amount": 450},
+    	{"item": "graphite", "amount": 450},
+    	{"item": "silicon", "amount": 450}
+    ],
     "startingItems": [
+    	{"item": "copper", "amount": 2200},
+    	{"item": "lead", "amount": 2200},
+    	{"item": "titanium", "amount": 450},
+    	{"item": "graphite", "amount": 450},
+    	{"item": "silicon", "amount": 450}
+    ],
+	"defaultStartingItems": [
     	{"item": "copper", "amount": 2200},
     	{"item": "lead", "amount": 2200},
     	{"item": "titanium", "amount": 450},
@@ -15,7 +36,7 @@
     	{
     		"type": "ZoneWave",
     		"zone": "desolateRift", 
-    		"wave": 50
+    		"wave": 35
     	},
     	{
     		"type": "Unlock",

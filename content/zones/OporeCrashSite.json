@@ -2,11 +2,29 @@
 	"name": "Opore Crash Site",
 	"description": "You were flying in a ship but something struck you down with great force, defend yourself from enemies incoming.",
 	"loadout": "basicFoundation",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 500},
+    	{"item": "metaglass", "amount": 250},
+    	{"item": "silicon", "amount": 300}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 500},
+    	{"item": "metaglass", "amount": 250},
+    	{"item": "silicon", "amount": 300}
+    ],
     "startingItems": [
-    	{"item": "copper", "amount": 1700},
-    	{"item": "lead", "amount": 1900},
-    	{"item": "metaglass", "amount": 550},
-    	{"item": "silicon", "amount": 800}
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 500},
+    	{"item": "metaglass", "amount": 250},
+    	{"item": "silicon", "amount": 300}
+    ],
+	"defaultStartingItems": [
+    	{"item": "copper", "amount": 700},
+    	{"item": "lead", "amount": 500},
+    	{"item": "metaglass", "amount": 250},
+    	{"item": "silicon", "amount": 300}
     ],
     "conditionWave": 10,
     "launchPeriod": 10,

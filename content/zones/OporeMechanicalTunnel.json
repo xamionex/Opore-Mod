@@ -1,0 +1,51 @@
+{
+	"name": "Opore Mechanical Tunnel",
+	"description": "You find yourself in an abandoned tunnel, enemies are coming and you should prepare to defend yourself. [map made by Pusheen#3121 on discord]",
+	"loadout": "basicFoundation",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 150},
+    	{"item": "graphite", "amount": 50}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 150},
+    	{"item": "graphite", "amount": 50}
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 150},
+    	{"item": "graphite", "amount": 50}
+    ],
+	"defaultStartingItems": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 150},
+    	{"item": "graphite", "amount": 50}
+    ],
+    "conditionWave": 10,
+    "launchPeriod": 10,
+    "requirements": [
+    	{
+    		"type": "ZoneWave",
+    		"zone": "desolateRift", 
+    		"wave": 50
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-spectre"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-forge"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-mechunit-factory"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-mech-pad"
+    	}
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore"]
+}

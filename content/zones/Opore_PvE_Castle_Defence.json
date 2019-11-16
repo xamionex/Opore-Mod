@@ -1,0 +1,47 @@
+{
+	"name": "Opore Castle Defense",
+	"description": "You were just in your castle on your throne watching the beautiful skies but suddenly you get an alert that there are enemies attacking, defend your castle! [map made by Félix Córvus#3546 on discord]",
+	"loadout": "basicFoundation",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 200},
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 200},
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 200},
+    ],
+	"defaultStartingItems": [
+    	{"item": "copper", "amount": 600},
+    	{"item": "lead", "amount": 200},
+    ],
+    "conditionWave": 40,
+    "launchPeriod": 10,
+    "requirements": [
+    	{
+    		"type": "ZoneWave",
+    		"zone": "desolateRift", 
+    		"wave": 50
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-spectre"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-forge"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-mechunit-factory"
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "vo-mech-pad"
+    	}
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore"]
+}
