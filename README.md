@@ -10,6 +10,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 16 Nov @ 11:24am Update 37: Fixed forges having a white box when making something
 * 15 Nov @ 12:00am Update 36: Fixed Opore Crash Site starting defense drill not mining coal therefore not defending you
 * 14 Nov @ 11:53am Update 35: Fixed maps not having enemy spawns therefore not being able to launch, Fixed holy arc being unlocked before opore arc.
 * 14 Nov @ 1:09am Update 34: Ores now have their colors shown on item sources and minimaps instead of purple, Fixed fps loss on some maps (still an issue but less now).
