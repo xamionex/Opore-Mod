@@ -1,8 +1,9 @@
 {
 	"name": "Void Liquid",
 	"description": "Void liquid, Enlighted by the void.",
-	"temperature": 0.9,
-    "viscosity": 0.8,
+	"temperature": 0.6,
+	"amount": 0.5,
+    "viscosity": 0.70,
     "effect": "burning",
-    "color": "a4a2bd"
+    "color": "000000"
 }

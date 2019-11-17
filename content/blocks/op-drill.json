@@ -10,7 +10,8 @@
 		"liquid": {
 			"liquid": "liquid-opore", 
 			"amount": 0.1,
-			"booster": true
+			"booster": true,
+			"optional": true
 		}
 	},
 	"requirements": [

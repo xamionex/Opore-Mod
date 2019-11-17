@@ -10,6 +10,10 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 17 Nov @ 3:04pm Update 41: Made liquids have colors, Retextured void walls, Made drills actually not need liquids, Nerfed extractors, Maps can use the modded units, Campaign maps now have my units as enemies, Made maps go to the next wave if enemies are still alive
+* 16 Nov @ 4:30pm Update 40: Fixed zones using random launch items, Nerfed zone launch needs
+* 16 Nov @ 4:15pm Update 39: Nerfed starting items on the 2 new zones (Opore Castle Defense and Opore Mechanical Tunnel)
+* 16 Nov @ 4:11pm Update 38: Updated description, Added 2 new zones (Opore Mechanical Tunnel, Opore Castle Defense)
 * 16 Nov @ 11:24am Update 37: Fixed forges having a white box when making something
 * 15 Nov @ 12:00am Update 36: Fixed Opore Crash Site starting defense drill not mining coal therefore not defending you
 * 14 Nov @ 11:53am Update 35: Fixed maps not having enemy spawns therefore not being able to launch, Fixed holy arc being unlocked before opore arc.

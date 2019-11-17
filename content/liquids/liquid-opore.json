@@ -1,8 +1,9 @@
 {
 	"name": "Liquid Opore",
 	"description": "Standard Opore ore but its a liquid, extracted out of opore liquid caches or extracted from the ground using power.",
-	"temperature": 0.9,
-    "viscosity": 0.8,
+	"temperature": 0.65,
+	"amount": 0.5,
+    "viscosity": 0.6,
     "effect": "melting",
-    "color": "a4a2bd"
+    "color": "ff0000"
 }
