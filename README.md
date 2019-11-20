@@ -10,6 +10,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 20 Nov @ 10:04am Update 42: Fixed crash.
 * 17 Nov @ 3:04pm Update 41: Made liquids have colors, Retextured void walls, Made drills actually not need liquids, Nerfed extractors, Maps can use the modded units, Campaign maps now have my units as enemies, Made maps go to the next wave if enemies are still alive
 * 16 Nov @ 4:30pm Update 40: Fixed zones using random launch items, Nerfed zone launch needs
 * 16 Nov @ 4:15pm Update 39: Nerfed starting items on the 2 new zones (Opore Castle Defense and Opore Mechanical Tunnel)
