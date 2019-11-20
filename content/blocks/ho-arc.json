@@ -1,5 +1,5 @@
 {
-    "type": "LaserTurret",
+    "type": "PowerTurret",
     "name": "Holy Arc",
     "description": "An arc turret made out of holy ore.",
     "targetAir": false,
@@ -11,7 +11,7 @@
     "health": 275,
     "size": 1,
     "inaccuracy": 0,
-    "reload": 0.0001,
+    "reload": 30.0,
 	"shots": 3,
     "recoil": 2,
     "shootCone": 40,

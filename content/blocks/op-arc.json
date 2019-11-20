@@ -1,5 +1,5 @@
 {
-    "type": "LaserTurret",
+    "type": "PowerTurret",
     "name": "Opore Arc",
     "description": "An arc turret made out of opore.",
     "targetAir": false,
@@ -11,7 +11,7 @@
     "health": 260,
     "size": 1,
     "inaccuracy": 0,
-    "reload": 0.0001,
+    "reload": 32.0,
 	"shots": 2,
     "recoil": 2,
     "shootCone": 40,

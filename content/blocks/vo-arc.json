@@ -1,5 +1,5 @@
 {
-    "type": "LaserTurret",
+    "type": "PowerTurret",
     "name": "Void Arc",
     "description": "An arc turret made out of void ore.",
     "targetAir": false,
@@ -11,7 +11,7 @@
     "health": 300,
     "size": 1,
     "inaccuracy": 0,
-    "reload": 0.0001,
+    "reload": 28.0,
 	"shots": 4,
     "recoil": 2,
     "shootCone": 40,

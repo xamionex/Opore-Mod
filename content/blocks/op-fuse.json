@@ -1,5 +1,5 @@
 {
-	"type": "LaserTurret",
+	"type": "ItemTurret",
 	"name": "Opore Fuse",
 	"description": "A Fuse made out of opore.",
     "targetAir": true,
@@ -10,7 +10,7 @@
     "health": 2000,
     "size": 3,
     "inaccuracy": 0,
-    "reload": 1,
+    "reload": 32,
 	"shots": 3,
     "recoil": 1,
     "shootCone": 40,
@@ -20,6 +20,22 @@
 		"opore": {
 			"speed": 3.0,
 			"damage": 155.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		},
+		"holyore": {
+			"speed": 3.0,
+			"damage": 165.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		},
+		"voidore": {
+			"speed": 3.0,
+			"damage": 175.0,
 			"bulletWidth": 16,
 			"bulletHeight": 21,
 			"shootEffect": "lightningShoot",
