@@ -39,5 +39,5 @@
     		"block": "vo-forge"
     	}
     ],
-    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "halloweenite"]
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "azonite"]
 }

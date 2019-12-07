@@ -1,9 +1,0 @@
-{
-	"name": "Halloweenite Liquid",
-	"description": "A Scary ore, extracted out of halloweenite liquid caches or extracted from the ground using power.",
-	"temperature": 0.7,
-	"amount": 0.5,
-    "viscosity": 0.55,
-    "effect": "burning",
-    "color": "4f261e"
-}

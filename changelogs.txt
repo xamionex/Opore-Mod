@@ -1,3 +1,4 @@
+* 7 Dec @ 12:28pm Update 44: Removed Halloweenite entirely, Added azonite + launch pad. I'm sorry for not updating please post anything that you find wrong in the feedback channel
 * 20 Nov @ 7:51pm Update 43: Made arcs power turrets (default, were laser turrets because they weren't able to be power turrets before), Made fuses item turrets (means that they use items now instead of just power and they do less damage (old version was bugged where they did 2k damage))
 * 20 Nov @ 10:04am Update 42: Fixed crash.
 * 17 Nov @ 3:04pm Update 41: Made liquids have colors, Retextured void walls, Made drills actually not need liquids, Nerfed extractors, Maps can use the modded units, Campaign maps now have my units as enemies, Made maps go to the next wave if enemies are still alive

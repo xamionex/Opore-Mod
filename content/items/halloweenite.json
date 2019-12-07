@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "Halloweenite",
-	"description": "A Scary ore, Mined from the ground.",
-	"hardness": 8,
-	"cost": 2.0,
-	"color": "4f261e"
-}

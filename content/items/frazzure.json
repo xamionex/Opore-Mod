@@ -1,5 +1,5 @@
 {
-	"type": "material",
+	"type": "resource",
 	"name": "Frazzure",
 	"description": "A Freezing ore, made from thorium and cryofluid.",
 	"hardness": 5,

@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Azonite Conveyor",
+	"description": "An Azonite conveyor, faster than the void conveyor.",
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "azonite", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.33,
+	"research": "vo-conveyor"
+}

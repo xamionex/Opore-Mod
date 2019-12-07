@@ -40,8 +40,8 @@
     	},
     	{
     		"type": "Unlock",
-    		"block": "ha-forge"
+    		"block": "az-forge"
     	}
     ],
-    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "halloweenite"]
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "azonite"]
 }
