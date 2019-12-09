@@ -1,5 +1,5 @@
 {
-	"type": "resource",
+	"type": "material",
 	"name": "Azurite",
 	"description": "A Highly flammable ore, made from thorium and cryofluid.",
 	"hardness": 5,
