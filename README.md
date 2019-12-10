@@ -10,6 +10,7 @@ if you have the steam version check https://steamcommunity.com/sharedfiles/filed
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 
 # Updates
+* 10 Dec @ 10:25pm Update 46: Removed halloweenite units, moved conduits from the regular conduits to the plated conduits, place azonite on all maps (though i forgot to add so that it shows the icon but its gonna be there the next update)
 * 9 Dec @ 9:07pm Update 45: Fixed ores not going in the core
 * 7 Dec @ 12:28pm Update 44: Removed Halloweenite entirely, Added azonite + launch pad. I'm sorry for not updating please post anything that you find wrong in the feedback channel
 * 20 Nov @ 7:51pm Update 43: Made arcs power turrets (default, were laser turrets because they weren't able to be power turrets before), Made fuses item turrets (means that they use items now instead of just power and they do less damage (old version was bugged where they did 2k damage))
