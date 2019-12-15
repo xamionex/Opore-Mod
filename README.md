@@ -10,10 +10,29 @@
 * That everyone remains cool about what i do
 
 # Opore Mod
-Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this. (I will be updating slower because i have a life, sorry but i will still be accepting requests like balancing issues) Special thanks: People from the discord server: Violet#5020, simon#8156, wewemaster#8854, Nope.avi#4037, HNU Founder.lua#5046, omegaDM#0155, Mwister Cinnabar owo#2702, People from the steam community: Tibault, 月之殇, the_red_soul. Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the special thanks list') NOTE: Update 30+: Some items will be broken because they cannot be done any other way, like an example the arc. It shoots too slow, but it cannot be faster (maybe anuke will fix the way we edit power turrets some day)
-I have uploaded this to the steam workshop and i can indeed update it when i please, 
-i will be updating here but its kind of delayed, 
-if you have the steam version check https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208
+Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.
+NOTE: Update 30+: Some items will be broken because they cannot be done any other way
+
+Credits
+> Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the credits list')
+
+> Coding - amione
+
+> Map making - amione, Félix Córvus#3546, Pusheen#3121
+
+> Descriptions and names - amione, LordPotaynut
+
+> Sprites - anuke, amione
+
+> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
+
+> Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
+
+> Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61
+
+* I have uploaded this to the steam workshop and i can indeed update it when i please, 
+* I will be updating here but its kind of delayed, 
+* If you have the steam version check https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
