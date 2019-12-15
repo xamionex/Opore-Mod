@@ -82,3 +82,4 @@ because you get automatic updates whenever i update the mod, also its easier for
 * 1 Nov @ 1:32am Update 2: Made opore,azurite,frazzure appear as "Ore Blocks" instead of "Floor Blocks" so when you use the editor generation options the ore modifier will show them.
 * 1 Nov @ 12:34am Update 1: Initial upload of mod, making sure nothing is wrong, fixing many issues
 # Known Issues
+> [All of the known issues are listed on steam](https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1637549649114418799/)
