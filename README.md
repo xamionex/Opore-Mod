@@ -3,6 +3,7 @@
 * > [Updates](#Updates)
 * > [Known Issues](#Known-Issues)
 * > [What i would like](#I-would-like)
+* > [Feedback](#Feedback)
 
 # I would like:
 * You to keep reporting issues or request some changes
@@ -83,3 +84,6 @@ because you get automatic updates whenever i update the mod, also its easier for
 * 1 Nov @ 12:34am Update 1: Initial upload of mod, making sure nothing is wrong, fixing many issues
 # Known Issues
 > [All of the known issues are listed on steam](https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1637549649114418799/)
+# Feedback
+Email me at [amioneatgithub@gmail.com](amioneatgithub@gmail.com)
+Or if you have steam [go here](https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/)
