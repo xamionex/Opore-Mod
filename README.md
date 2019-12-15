@@ -14,6 +14,20 @@ I have uploaded this to the steam workshop and i can indeed update it when i ple
 i will be updating here but its kind of delayed, 
 if you have the steam version check https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview3.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview4.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview5.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview6.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview7.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview8.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview9.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview10.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview11.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview12.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview13.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview14.png)
 
 # Updates
 * 15 Dec @ 3:34pm Update 47: Added Azurite buildings, added azonite (op but kinda hard to get), fixed maps having opore sand instead of the ore. This update includes:
