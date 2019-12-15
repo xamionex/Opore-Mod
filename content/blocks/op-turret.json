@@ -18,6 +18,42 @@
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 5
+		},
+		"graphite": {
+			"speed": 3.0,
+			"damage": 45.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+		"holyore": {
+			"speed": 3.0,
+			"damage": 35.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"voidore": {
+			"speed": 3.0,
+			"damage": 49.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"azurite": {
+			"speed": 3.0,
+			"damage": 55.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
 		}
 	},
 	"requirements": [

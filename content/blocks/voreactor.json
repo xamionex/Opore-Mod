@@ -3,6 +3,7 @@
 	"name": "Void Impact Reactor",
 	"description": "An impact reactor that uses void ore.",
 	"size": 4,
+	"health": 7500,
 	"hasPower": true,
 	"hasItems": true,
 	"hasLiquids": false,

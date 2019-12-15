@@ -1,0 +1,29 @@
+{
+    "type": "PowerTurret",
+    "name": "Azurite Arc",
+    "description": "An arc turret made out of azurite.",
+    "targetAir": false,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquid": false,
+	"powerUse": 3.75,
+    "shootType": "arc",
+    "health": 300,
+    "size": 1,
+    "inaccuracy": 0,
+    "reload": 25.0,
+	"shots": 5,
+    "recoil": 2,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 125,
+    "shootEffect": "lightningShoot",
+    "requirements": [
+        { "item": "azurite", "amount": 75 },
+        { "item": "copper", "amount": 35 },
+        { "item": "lead", "amount": 50 }
+    ],
+    "category": "turret",
+    "shootSound": "spark",
+	"research": "vo-arc"
+}

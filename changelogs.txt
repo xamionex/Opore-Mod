@@ -1,3 +1,8 @@
+* 15 Dec @ 3:34pm Update 47: Added Azurite buildings, added azonite (op but kinda hard to get), fixed maps having opore sand instead of the ore. This update includes:
+-Azurite turrets (spectre,ripple,fuse,meltdown),walls,conduits,conveyors
+-Azonite launch pad, forge, ore, etc
+-Impending Doom Pad, Impending Doom Ship
+-Bug fixes and more
 * 10 Dec @ 10:25pm Update 46: Removed halloweenite units, moved conduits from the regular conduits to the plated conduits, place azonite on all maps (though i forgot to add so that it shows the icon but its gonna be there the next update)
 * 9 Dec @ 9:07pm Update 45: Fixed ores not going in the core
 * 7 Dec @ 12:28pm Update 44: Removed Halloweenite entirely, Added azonite + launch pad. I'm sorry for not updating please post anything that you find wrong in the feedback channel

@@ -2,6 +2,7 @@
 	"type": "Conduit",
 	"name": "Void Conduit",
 	"description": "A Void conduit, stores more than the holy conduit.",
+    "health": 200,
 	"hasLiquids": true,
 	"liquidCapacity": 27,
 	"outputsLiquid": true,

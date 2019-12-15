@@ -1,0 +1,15 @@
+{
+	"type": "Conveyor",
+	"name": "Azurite Conveyor",
+	"description": "An Azurite conveyor, faster than the void conveyor.",
+    "health": 150,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "azurite", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.35,
+	"research": "vo-conveyor"
+}

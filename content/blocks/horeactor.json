@@ -3,6 +3,7 @@
 	"name": "Holy Impact Reactor",
 	"description": "An impact reactor that uses holy ore.",
 	"size": 4,
+	"health": 6500,
 	"hasPower": true,
 	"hasItems": true,
 	"hasLiquids": false,

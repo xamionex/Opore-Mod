@@ -1,0 +1,21 @@
+{
+	"name": "Impending Doom Pad",
+	"description": "Provides transformation into an extremely dangerous ship.",
+	"type": "MechPad",
+	"mech": "awp-ship",
+	"size": 2,
+	"consumes": {
+		"power": 3.1
+	},
+	"category": "upgrade",
+	"research": "vo-mech-pad",
+	"requirements": [
+		{ "item": "azonite", "amount": 50 },
+		{ "item": "azurite", "amount": 150 },
+		{ "item": "voidore", "amount": 700 },
+		{ "item": "holyore", "amount": 500 },
+		{ "item": "opore", "amount": 1000 },
+		{ "item": "silicon", "amount": 666 },
+		{ "item": "graphite", "amount": 444 },
+	]
+}

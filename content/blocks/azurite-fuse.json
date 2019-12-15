@@ -1,0 +1,61 @@
+{
+	"type": "ItemTurret",
+	"name": "Azurite Fuse",
+	"description": "A Fuse made out of azurite.",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquids": true, 
+    "shootType": "lancerLaser",
+    "health": 3000,
+    "size": 3,
+    "inaccuracy": 0,
+    "reload": 25,
+	"shots": 3,
+    "recoil": 1,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 120,
+	"ammo": {
+		"opore": {
+			"speed": 3.0,
+			"damage": 185.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		},
+		"holyore": {
+			"speed": 3.0,
+			"damage": 200.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		},
+		"voidore": {
+			"speed": 3.0,
+			"damage": 225.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		},
+		"azurite": {
+			"speed": 3.0,
+			"damage": 300.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "lightningShoot",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "azurite", "amount": 150 },
+		{ "item": "copper", "amount": 225 },
+		{ "item": "graphite", "amount": 225 },
+		{ "item": "thorium", "amount": 100 }
+	],
+	"category": "turret",
+	"research": "vo-fuse"
+}

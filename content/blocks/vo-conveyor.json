@@ -2,6 +2,7 @@
 	"type": "Conveyor",
 	"name": "Void Conveyor",
 	"description": "A Void conveyor, faster than the holy conveyor.",
+    "health": 120,
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},

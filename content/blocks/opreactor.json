@@ -3,6 +3,7 @@
 	"name": "Opore Impact Reactor",
 	"description": "An impact reactor that uses opore.",
 	"size": 4,
+	"health": 5000,
 	"hasPower": true,
 	"hasItems": true,
 	"hasLiquids": false,

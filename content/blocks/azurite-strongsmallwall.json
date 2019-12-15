@@ -1,0 +1,12 @@
+{
+	"name": "Strong Azurite Wall",
+	"description": "A Strong Azurite wall, More durable than the void wall.",
+	"type": "Wall",
+	"health": 2500,
+	"size": 1,
+	"requirements": [
+		{ "item": "azurite", "amount": 150 }
+	],
+	"category": "defense",
+	"research": "vo-strongsmallwall"
+}

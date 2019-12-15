@@ -24,6 +24,8 @@
 			"smokeEffect": "shootBigSmoke",
 			"effects": "burning",
 			"ammoMultiplier": 2,
+			"frontColor": "000000",
+			"backColor": "000000"
 		}
 	},
 	"requirements": [

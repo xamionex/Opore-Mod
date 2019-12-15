@@ -1,15 +1,40 @@
+# Table of contents
+* > [Description & Pictures](#Opore-Mod)
+* > [Updates](#Updates)
+* > [Known Issues](#Known-Issues)
+* > [What i would like](#I-would-like)
+
+# I would like:
+* You to keep reporting issues or request some changes
+* That everyone remains cool about what i do
+
 # Opore Mod
-![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
-![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
-![](https://github.com/xamionex/Opore-Mod/blob/master/Preview3.png)
-![](https://github.com/xamionex/Opore-Mod/blob/master/Preview4.png)
 Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this. (I will be updating slower because i have a life, sorry but i will still be accepting requests like balancing issues) Special thanks: People from the discord server: Violet#5020, simon#8156, wewemaster#8854, Nope.avi#4037, HNU Founder.lua#5046, omegaDM#0155, Mwister Cinnabar owo#2702, People from the steam community: Tibault, 月之殇, the_red_soul. Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the special thanks list') NOTE: Update 30+: Some items will be broken because they cannot be done any other way, like an example the arc. It shoots too slow, but it cannot be faster (maybe anuke will fix the way we edit power turrets some day)
 I have uploaded this to the steam workshop and i can indeed update it when i please, 
 i will be updating here but its kind of delayed, 
 if you have the steam version check https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208
 because you get automatic updates whenever i update the mod, also its easier for me and its faster too.
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview2.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview3.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview4.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview5.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview6.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview7.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview8.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview9.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview10.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview11.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview12.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview13.png)
+![](https://github.com/xamionex/Opore-Mod/blob/master/Preview14.png)
 
 # Updates
+* 15 Dec @ 3:34pm Update 47: Added Azurite buildings, added azonite (op but kinda hard to get), fixed maps having opore sand instead of the ore. This update includes:
+-Azurite turrets (spectre,ripple,fuse,meltdown),walls,conduits,conveyors
+-Azonite launch pad, forge, ore, etc
+-Impending Doom Pad, Impending Doom Ship
+-Bug fixes and more
 * 10 Dec @ 10:25pm Update 46: Removed halloweenite units, moved conduits from the regular conduits to the plated conduits, place azonite on all maps (though i forgot to add so that it shows the icon but its gonna be there the next update)
 * 9 Dec @ 9:07pm Update 45: Fixed ores not going in the core
 * 7 Dec @ 12:28pm Update 44: Removed Halloweenite entirely, Added azonite + launch pad. I'm sorry for not updating please post anything that you find wrong in the feedback channel
@@ -56,3 +81,4 @@ because you get automatic updates whenever i update the mod, also its easier for
 * 1 Nov @ 1:48am Update 3: Fixed opore ore missing texture, Improved frazzure texture
 * 1 Nov @ 1:32am Update 2: Made opore,azurite,frazzure appear as "Ore Blocks" instead of "Floor Blocks" so when you use the editor generation options the ore modifier will show them.
 * 1 Nov @ 12:34am Update 1: Initial upload of mod, making sure nothing is wrong, fixing many issues
+# Known Issues

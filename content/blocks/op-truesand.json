@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Opore Sand",
+	"itemDrop": "op-powder",
+	"variants": 3,
+	"playerUnmineable": true
+}

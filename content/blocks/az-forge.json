@@ -1,10 +1,10 @@
 {
 	"type": "GenericSmelter",
 	"name": "Azonite Forge",
-	"description": "This mixes every opore mod item to create azonite",
+	"description": "This mixes every opore mod item (except liquids) to create azonite",
 	"liquidCapacity": 50,
 	"itemCapacity": 1000,
-	"outputItem": {"item": "azonite", "amount": 100},
+	"outputItem": {"item": "azonite", "amount": 10},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -20,7 +20,7 @@
 				{ "item": "voidore", "amount": 10 },
 				{ "item": "azurite", "amount": 10 },
 				{ "item": "frazzure", "amount": 10 },
-				{ "item": "megaopore", "amount": 10 }
+				{ "item": "megaopore", "amount": 2 }
 			]
 		},
 		"liquid": {
