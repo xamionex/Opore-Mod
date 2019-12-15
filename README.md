@@ -85,5 +85,5 @@ because you get automatic updates whenever i update the mod, also its easier for
 # Known Issues
 > [All of the known issues are listed on steam](https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1637549649114418799/)
 # Feedback
-Email me at [amioneatgithub@gmail.com](amioneatgithub@gmail.com)
+Email me at [amioneatgithub@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDlvQtvVMfRrxGwgFqMJKNPJsSLTWSTSRCpnXNnrqGmbXRlSbHnpDLLWlsWkLGRmpvhph)
 Or if you have steam [go here](https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/)
