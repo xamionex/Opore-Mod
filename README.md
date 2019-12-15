@@ -14,9 +14,8 @@ Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyo
 NOTE: Update 30+: Some items will be broken because they cannot be done any other way
 
 Credits
-> Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the credits list')
 
-> Coding - amione
+> Coding - amione, SimonWoodburyForget
 
 > Map making - amione, Félix Córvus#3546, Pusheen#3121
 
