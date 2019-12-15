@@ -8,7 +8,7 @@
 	"consumes": {
 		"power": 3.5,
 		"liquid": {
-			"liquid": "liquid-voidore", 
+			"liquid": "liquid-frazzure", 
 			"amount": 0.1,
 			"booster": true,
 			"optional": true

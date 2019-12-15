@@ -57,7 +57,7 @@
 		}
 	},
 	"requirements": [
-		{ "item": "voidore", "amount": 25 },
+		{ "item": "azurite", "amount": 25 },
 	],
 	"category": "turret",
 	"research": "ho-turret"

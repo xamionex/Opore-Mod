@@ -55,7 +55,7 @@
 		}
 	},
 	"requirements": [
-		{ "item": "opore", "amount": 300 },
+		{ "item": "azurite", "amount": 300 },
 		{ "item": "copper", "amount": 400 },
 		{ "item": "graphite", "amount": 350 },
 		{ "item": "thorium", "amount": 300 },

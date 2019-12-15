@@ -49,6 +49,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 ![](https://github.com/xamionex/Opore-Mod/blob/master/Preview14.png)
 
 # Updates
+* 15 Dec @ 6:50pm Update 48: Fixed some azurite buildings being crafted by opore and voidore, Removed fake liquids, Removed azonite ore blocks from maps (replaced by azurite), Added new map called Icy Crashdown (by LordPotaynut modified by amione [me])
 * 15 Dec @ 3:34pm Update 47: Added Azurite buildings, added azonite (op but kinda hard to get), fixed maps having opore sand instead of the ore. This update includes:
 -Azurite turrets (spectre,ripple,fuse,meltdown),walls,conduits,conveyors
 -Azonite launch pad, forge, ore, etc

@@ -2,13 +2,11 @@
   "name": "Opore Mod",
   "author": "amione",
   "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.
-NOTE: Update 30+: Some items will be broken because they cannot be done any other way, like an example the arc. It shoots too slow, but it cannot be faster (maybe anuke will fix the way we edit power turrets some day)
-
+NOTE: Update 30+: Some items will be broken because they cannot be done any other way
 
 Credits
-> Everyone that reports a bug/unbalanced item will be added to the special thanks list (if you dont want to be added just say 'dont add me on the credits list')
 
-> Coding - amione
+> Coding - amione, SimonWoodburyForget
 
 > Map making - amione, Félix Córvus#3546, Pusheen#3121
 
@@ -21,5 +19,5 @@ Credits
 > Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
 
 > Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61",
-  "version": "47"
+  "version": "48"
 }

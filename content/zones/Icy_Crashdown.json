@@ -1,0 +1,43 @@
+{
+	"name": "Icy Crashdown",
+	"description": "You crashed on an icy planet of sorts, The crash site has burnt, dark blocks around, probably scattered from your impact. Be careful.",
+	"loadout": "basicNucleus",
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 150},
+    	{"item": "lead", "amount": 75},
+    	{"item": "metaglass", "amount": 25},
+    	{"item": "silicon", "amount": 50}
+    ],
+	"launchCost": [
+    	{"item": "copper", "amount": 150},
+    	{"item": "lead", "amount": 75},
+    	{"item": "metaglass", "amount": 25},
+    	{"item": "silicon", "amount": 50}
+    ],
+    "startingItems": [
+    	{"item": "copper", "amount": 150},
+    	{"item": "lead", "amount": 75},
+    	{"item": "metaglass", "amount": 25},
+    	{"item": "silicon", "amount": 50}
+    ],
+	"defaultStartingItems": [
+    	{"item": "copper", "amount": 150},
+    	{"item": "lead", "amount": 75},
+    	{"item": "metaglass", "amount": 25},
+    	{"item": "silicon", "amount": 50}
+    ],
+    "conditionWave": 10,
+    "launchPeriod": 10,
+    "requirements": [
+    	{
+    		"type": "ZoneWave",
+    		"zone": "frozenForest", 
+    		"wave": 25
+    	},
+    	{
+    		"type": "Unlock",
+    		"block": "opore-forge"
+    	}
+    ],
+    "resources": ["copper", "lead", "coal", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore"]
+}

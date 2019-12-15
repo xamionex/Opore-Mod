@@ -43,5 +43,5 @@
     		"block": "az-forge"
     	}
     ],
-    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore", "azonite"]
+    "resources": ["copper", "lead", "coal", "sand", "titanium",  "thorium", "opore", "frazzure", "azurite", "holyore", "voidore"]
 }
