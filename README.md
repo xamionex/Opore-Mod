@@ -1,12 +1,12 @@
 # Table of contents
-> [Description & Pictures](#Opore-Mod)
-> [Updates](#Updates)
-> [Known Issues](#Known-Issues)
-> [What i would like](#I-would-like)
-> [Feedback](#Feedback)
-> [Download](http://api.github.com/repos/xamionex/Opore-Mod/zipball/master)
-> [Github link for people that are on my website](https://github.com/xamionex/Opore-Mod)
-> [On Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208)
+* > [Description & Pictures](#Opore-Mod)
+* > [Updates](#Updates)
+* > [Known Issues](#Known-Issues)
+* > [What i would like](#I-would-like)
+* > [Feedback](#Feedback)
+* > [Download](http://api.github.com/repos/xamionex/Opore-Mod/zipball/master)
+* > [Github link for people that are on my website](https://github.com/xamionex/Opore-Mod)
+* > [On Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208)
 
 # I would like:
 * You to keep reporting issues or request some changes
