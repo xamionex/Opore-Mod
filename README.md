@@ -6,7 +6,6 @@
 * > [What i would like](#I-would-like)
 * > [Feedback](#Feedback)
 * > [Download](http://api.github.com/repos/xamionex/Opore-Mod/zipball/master)
-* > [Github link for people that are on my website](https://github.com/xamionex/Opore-Mod)
 * > [On Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208)
 
 # I would like:
