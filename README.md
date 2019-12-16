@@ -1,5 +1,6 @@
 # Table of contents
 * > [Description & Pictures](#Opore-Mod)
+* > [Credits](#Credits)
 * > [Updates](#Updates)
 * > [Known Issues](#Known-Issues)
 * > [What i would like](#I-would-like)
@@ -16,21 +17,21 @@
 Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.
 NOTE: Update 30+: Some items will be broken because they cannot be done any other way
 
-Credits
+# Credits
 
-> Coding - amione, SimonWoodburyForget
+* >  Coding - amione, SimonWoodburyForget
 
-> Map making - amione, Félix Córvus#3546, Pusheen#3121
+* >  Map making - amione, Félix Córvus#3546, Pusheen#3121
 
-> Descriptions and names - amione, LordPotaynut
+* >  Descriptions and names - amione, LordPotaynut
 
-> Sprites - anuke, amione
+* >  Sprites - anuke, amione
 
-> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
+* >  Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
 
-> Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
+* >  Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
 
-> Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61
+* >  Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61
 
 * I have uploaded this to the steam workshop and i can indeed update it when i please, 
 * I will be updating here but its kind of delayed, 
