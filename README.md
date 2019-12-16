@@ -54,8 +54,8 @@ because you get automatic updates whenever i update the mod, also its easier for
 
 # Updates
 
-
-> ![Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
+* [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
+* [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
 * 16 Dec @ 2:37pm Update 49: Item sprites redone (by MemFaceGo), Hopefully reduced spawn rates on PVE Defense map
 * 15 Dec @ 6:50pm Update 48: Fixed some azurite buildings being crafted by opore and voidore, Removed fake liquids, Removed azonite ore blocks from maps (replaced by azurite), Added new map called Icy Crashdown (by LordPotaynut modified by amione [me])
