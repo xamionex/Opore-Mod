@@ -7,7 +7,7 @@
 * > [Feedback](#Feedback)
 * > [Download](http://api.github.com/repos/xamionex/Opore-Mod/zipball/master)
 * > [On Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1903525208)
-* > [My website (not fully working, not recommended](https://xamionex.github.io/Opore-Mod/)
+* > [My website (not fully working, not recommended)](https://xamionex.github.io/Opore-Mod/)
 
 # I would like:
 * You to keep reporting issues or request some changes
