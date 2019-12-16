@@ -25,7 +25,7 @@ NOTE: Update 30+: Some items will be broken because they cannot be done any othe
 
 * >  Descriptions and names - amione, LordPotaynut
 
-* >  Sprites - anuke, amione
+* >  Sprites - anuke, amione, MemFaceGo
 
 * >  Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
 
