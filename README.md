@@ -19,13 +19,13 @@ NOTE: Update 30+: Some items will be broken because they cannot be done any othe
 
 # Credits
 
-* >  Coding - amione, SimonWoodburyForget
+* >  Coding - amione#0663, SimonWoodburyForget
 
-* >  Map making - amione, Félix Córvus#3546, Pusheen#3121
+* >  Map making - amione#0663, Félix Córvus#3546, Pusheen#3121
 
-* >  Descriptions and names - amione, LordPotaynut
+* >  Descriptions and names - amione#0663, LordPotaynut
 
-* >  Sprites - anuke, amione, MemFaceGo
+* >  Sprites - anuke, amione#0663, MemFaceGo
 
 * >  Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
 
@@ -57,6 +57,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 18 Dec @ 10:04pm Update 50: Added Ion ore, power blocks
 * 16 Dec @ 2:37pm Update 49: Item sprites redone (by MemFaceGo), Hopefully reduced spawn rates on PVE Defense map
 * 15 Dec @ 6:50pm Update 48: Fixed some azurite buildings being crafted by opore and voidore, Removed fake liquids, Removed azonite ore blocks from maps (replaced by azurite), Added new map called Icy Crashdown (by LordPotaynut modified by amione [me])
 * 15 Dec @ 3:34pm Update 47: Added Azurite buildings, added azonite buildings (op but kinda hard to get), fixed maps having opore sand instead of the ore. This update includes:

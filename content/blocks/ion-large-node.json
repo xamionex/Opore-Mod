@@ -1,0 +1,14 @@
+{
+	"type": "PowerNode",
+	"name": "Large Ion Node",
+	"description": "Transfers large amounts power using Ion Crystals and Azonite",
+	"health": 1200,
+	"maxNodes": 15,
+	"laserRange": 85,
+	"requirements": [
+		{ "item": "ion", "amount": 500 },
+		{ "item": "azonite", "amount": 30 }
+	],
+	"category": "power",
+	"research": "power-node-large"
+}

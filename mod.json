@@ -1,23 +1,23 @@
 {
   "name": "Opore Mod",
-  "author": "amione",
+  "author": "amione#0663",
   "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.
 NOTE: Update 30+: Some items will be broken because they cannot be done any other way
 
 Credits
 
-> Coding - amione, SimonWoodburyForget
+> Coding - amione#0663, SimonWoodburyForget
 
-> Map making - amione, Félix Córvus#3546, Pusheen#3121
+> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121
 
-> Descriptions and names - amione, LordPotaynut
+> Descriptions and names - amione#0663, LordPotaynut
 
-> Sprites - anuke, amione
+> Sprites - anuke, amione#0663, MemFaceGo
 
 > Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
 
 > Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
 
 > Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61",
-  "version": "49"
+  "version": "50"
 }
