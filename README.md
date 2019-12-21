@@ -19,19 +19,23 @@ NOTE: Update 30+: Some items will be broken because they cannot be done any othe
 
 # Credits
 
-* >  Coding - amione#0663, SimonWoodburyForget
+* > Coding - amione#0663, SimonWoodburyForget
 
-* >  Map making - amione#0663, Félix Córvus#3546, Pusheen#3121
+* > Map making - amione#0663, Félix Córvus#3546, Pusheen#3121
 
-* >  Descriptions and names - amione#0663, LordPotaynut
+* > Descriptions and names - amione#0663, LordPotaynut
 
-* >  Sprites - anuke, amione#0663, MemFaceGo
+* > Sprites - anuke, amione#0663, MemFaceGo
 
-* >  Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
+* > Report bugs - wewemaster#8854 (on discord)
+* > Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/
+* > Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose
 
-* >  Feedback on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
+* > Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046
 
-* >  Feedback on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61
+* > People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702
+
+* > People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61
 
 * I have uploaded this to the steam workshop and i can indeed update it when i please, 
 * I will be updating here but its kind of delayed, 
@@ -57,6 +61,8 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 21 Dec @ 3:26pm Update 52: Fixed Large ion nodes being 2x2, changed mod description
+* 21 Dec @ 8:57am Update 51: Ion energy crystal resprite (by MemFaceGo), Fixed wall healths,names and descriptions
 * 18 Dec @ 10:04pm Update 50: Added Ion ore, power blocks
 * 16 Dec @ 2:37pm Update 49: Item sprites redone (by MemFaceGo), Hopefully reduced spawn rates on PVE Defense map
 * 15 Dec @ 6:50pm Update 48: Fixed some azurite buildings being crafted by opore and voidore, Removed fake liquids, Removed azonite ore blocks from maps (replaced by azurite), Added new map called Icy Crashdown (by LordPotaynut modified by amione [me])

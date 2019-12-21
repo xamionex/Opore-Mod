@@ -1,11 +1,11 @@
 {
-	"name": "Azurite Wall",
-	"description": "An Azurite wall, More durable than the void wall.",
+	"name": "Small Azurite Wall",
+	"description": "A Small Azurite wall, More durable than the Void wall.",
 	"type": "Wall",
-	"health": 20000,
+	"health": 2000,
 	"size": 1,
 	"requirements": [
-		{ "item": "azurite", "amount": 150 }
+		{ "item": "azurite", "amount": 35 }
 	],
 	"category": "defense",
 	"research": "vo-smallwall"

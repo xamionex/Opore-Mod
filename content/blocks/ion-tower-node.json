@@ -2,6 +2,7 @@
 	"type": "PowerNode",
 	"name": "Ion Tower",
 	"description": "Transfers large amounts power using Ion Crystals and Azonite at long distances",
+	"size": 2,
 	"health": 3000,
 	"maxNodes": 7,
 	"laserRange": 1000,
