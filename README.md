@@ -61,6 +61,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 11 Jan @ 10:50pm Update 53: Added VTOL-F117 Bombers, Shooters, etc. (3), More materials...
 * 21 Dec @ 3:26pm Update 52: Fixed Large ion nodes being 2x2, changed mod description
 * 21 Dec @ 8:57am Update 51: Ion energy crystal resprite (by MemFaceGo), Fixed wall healths,names and descriptions
 * 18 Dec @ 10:04pm Update 50: Added Ion ore, power blocks

@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Reservoir part",
+	"description": "A Reservoir part for vehicles.",
+	"hardness": 8,
+	"cost": 2.0,
+	"color": "404040",
+	"explosiveness": 0
+	"flammability": 5
+}

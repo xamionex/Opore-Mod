@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Missile part",
+	"description": "A Missile part for vehicles.",
+	"hardness": 8,
+	"cost": 2.0,
+	"color": "212121",
+	"explosiveness": 5
+	"flammability": 5
+}
