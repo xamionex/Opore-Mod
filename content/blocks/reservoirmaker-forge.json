@@ -29,7 +29,7 @@
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "bomber-ship-pad",
+	"research": "op-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

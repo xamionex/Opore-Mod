@@ -1,10 +1,10 @@
 {
 	"type": "GenericSmelter",
-	"name": "Missile Forge",
-	"description": "This mixes thorium and liquid opore to make a missile part.",
+	"name": "Compressionized Titanium Forge",
+	"description": "This mixes titanium and a compression unit to make compressionized titanium.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
-	"outputItem": {"item": "missilepart", "amount": 1},
+	"outputItem": {"item": "compressionizedtitanium", "amount": 2},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,11 +15,11 @@
 		"power": 0.9,
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 20 }
+				{ "item": "titanium", "amount": 20 }
 			]
 		},
 		"liquid": {
-			"liquid": "liquid-opore",
+			"liquid": "liquid-compressionizedunit",
 			"amount": 0.1
 		}
 	},
@@ -29,7 +29,7 @@
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "az-forge",
+	"research": "op-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

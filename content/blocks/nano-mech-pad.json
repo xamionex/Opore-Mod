@@ -1,0 +1,18 @@
+{
+	"name": "Nano Mech Pad",
+	"description": "Provides transformation into an extremely small mech.",
+	"type": "MechPad",
+	"mech": "nano-mech",
+	"size": 1,
+	"consumes": {
+		"power": 3.1
+	},
+	"category": "upgrade",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "compressionizedtitanium", "amount": 5 },
+		{ "item": "titanium", "amount": 10 },
+		{ "item": "silicon", "amount": 20 },
+		{ "item": "graphite", "amount": 20 },
+	]
+}

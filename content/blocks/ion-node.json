@@ -2,6 +2,7 @@
 	"type": "PowerNode",
 	"name": "Ion Node",
 	"description": "Transfers large amounts power using Ion Crystals and Azonite",
+	"size": 1,
 	"health": 800,
 	"maxNodes": 30,
 	"laserRange": 40,

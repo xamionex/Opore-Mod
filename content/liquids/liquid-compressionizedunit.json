@@ -1,0 +1,9 @@
+{
+	"name": "Compressionized Unit",
+	"description": "Some kind of ground type liquid that's almost transparent.",
+	"temperature": 0.65,
+	"amount": 0.5,
+    "viscosity": 0.6,
+    "effect": "melting",
+    "color": "FFFFFF80"
+}
