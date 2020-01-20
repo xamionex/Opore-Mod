@@ -14,9 +14,9 @@
 * That everyone remains cool about what i do
 
 # Opore Mod
+* > [A Thank you note](https://steamcommunity.com/sharedfiles/filedetails/?id=1973829193)
 Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.
 NOTE: Update 30+: Some items will be broken because they cannot be done any other way
-* > [A Thank you note](https://steamcommunity.com/sharedfiles/filedetails/?id=1973829193)
 
 # Credits
 
