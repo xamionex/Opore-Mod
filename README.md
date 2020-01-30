@@ -62,6 +62,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 30 Jan @ 11:51am Update 55: Fixed antomius extractor
 * 20 Jan @ 12:39am Update 54: Added nano mech, Added compressed titanium and forge, Added compression unit and extractor (transparent liquid), Rearranged tech tree items, Fixed frazzure forge sprite (very small error)
 * 11 Jan @ 10:50pm Update 53: Added VTOL-F117 Bombers, Shooters, etc. (3), More materials...
 * 21 Dec @ 3:26pm Update 52: Fixed Large ion nodes being 2x2, changed mod description
