@@ -1,23 +1,23 @@
 {
-	"name": "Void Ship Factory",
-	"description": "Makes void ship units.",
+	"name": "Opore Mech Factory",
+	"description": "Makes opore mech units.",
 	"type": "UnitFactory",
-	"unitType": "vo-mechunit",
+	"unitType": "opmechunitG",
 	"size": 3,
 	"produceTime": 350,
 	"consumes": {
-		"power": 0.9,
+		"power": 0.7,
 		"items": {
 			"items": [
-				{"item": "voidore", "amount": 40},
+				{"item": "opore", "amount": 50},
 				{"item": "silicon", "amount": 10}
 			]
 		}
 	},
 	"category": "units",
-	"research": "ho-mechunit-factory",
+	"research": "wraith-factory",
 	"requirements": [
-		{ "item": "voidore", "amount": 120 },
+		{ "item": "opore", "amount": 145 },
 		{ "item": "silicon", "amount": 40 },
 		{ "item": "titanium", "amount": 20 }
 	]

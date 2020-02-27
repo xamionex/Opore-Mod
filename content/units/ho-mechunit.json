@@ -1,7 +1,7 @@
 {
 	"type": "flyingUnit",
-	"name": "Holy Mech Unit",
-	"description": "An incredibly advanced lightning attack mech unit.",
+	"name": "Holy Ship Unit",
+	"description": "An incredibly advanced lightning attack ship unit.",
 	"speed": 0.5,
 	"flying": true,
 	"health": 700,

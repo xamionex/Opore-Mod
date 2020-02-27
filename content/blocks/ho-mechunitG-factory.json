@@ -1,23 +1,23 @@
 {
-	"name": "Void Ship Factory",
-	"description": "Makes void ship units.",
+	"name": "Holy Mech Factory",
+	"description": "Makes holy mech units.",
 	"type": "UnitFactory",
-	"unitType": "vo-mechunit",
+	"unitType": "ho-mechunitG",
 	"size": 3,
 	"produceTime": 350,
 	"consumes": {
-		"power": 0.9,
+		"power": 0.8,
 		"items": {
 			"items": [
-				{"item": "voidore", "amount": 40},
+				{"item": "holyore", "amount": 30},
 				{"item": "silicon", "amount": 10}
 			]
 		}
 	},
 	"category": "units",
-	"research": "ho-mechunit-factory",
+	"research": "opmechunitG-factory",
 	"requirements": [
-		{ "item": "voidore", "amount": 120 },
+		{ "item": "holyore", "amount": 100 },
 		{ "item": "silicon", "amount": 40 },
 		{ "item": "titanium", "amount": 20 }
 	]

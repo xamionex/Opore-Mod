@@ -1,0 +1,17 @@
+{
+	"type": "GroundUnit",
+	"name": "Opore Mech Unit",
+	"description": "An incredibly advanced ground healing mech unit.",
+	"speed": 0.07,
+	"flying": false,
+	"health": 500,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "op-mechunitG-blaster",
+		"length": 3,
+		"reload": 9,
+		"alternate": false,
+		"bullet": "lightning"
+	}
+}

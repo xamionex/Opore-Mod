@@ -62,6 +62,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 27 Feb @ 10:36am Update 56: Added mech units and changed names of the ship units
 * 30 Jan @ 11:51am Update 55: Fixed antomius extractor
 * 20 Jan @ 12:39am Update 54: Added nano mech, Added compressed titanium and forge, Added compression unit and extractor (transparent liquid), Rearranged tech tree items, Fixed frazzure forge sprite (very small error)
 * 11 Jan @ 10:50pm Update 53: Added VTOL-F117 Bombers, Shooters, etc. (3), More materials...

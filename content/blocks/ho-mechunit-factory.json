@@ -1,6 +1,6 @@
 {
-	"name": "Holy Mech Factory",
-	"description": "Makes holy mech units.",
+	"name": "Holy Ship Factory",
+	"description": "Makes holy ship units.",
 	"type": "UnitFactory",
 	"unitType": "ho-mechunit",
 	"size": 3,

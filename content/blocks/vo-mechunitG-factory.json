@@ -1,8 +1,8 @@
 {
-	"name": "Void Ship Factory",
-	"description": "Makes void ship units.",
+	"name": "Void Mech Factory",
+	"description": "Makes void mech units.",
 	"type": "UnitFactory",
-	"unitType": "vo-mechunit",
+	"unitType": "vo-mechunitG",
 	"size": 3,
 	"produceTime": 350,
 	"consumes": {
@@ -15,7 +15,7 @@
 		}
 	},
 	"category": "units",
-	"research": "ho-mechunit-factory",
+	"research": "ho-mechunitG-factory",
 	"requirements": [
 		{ "item": "voidore", "amount": 120 },
 		{ "item": "silicon", "amount": 40 },

@@ -1,0 +1,17 @@
+{
+	"type": "GroundUnit",
+	"name": "Holy Mech Unit",
+	"description": "An incredibly advanced lightning attack mech unit.",
+	"speed": 0.08,
+	"flying": false,
+	"health": 700,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "ho-mechunitG-blaster",
+		"length": 4,
+		"reload": 7,
+		"alternate": false,
+		"bullet": "lightning"
+	}
+}

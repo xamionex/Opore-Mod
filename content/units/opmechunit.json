@@ -1,7 +1,7 @@
 {
 	"type": "flyingUnit",
-	"name": "Opore Mech Unit",
-	"description": "An incredibly advanced ground healing mech unit.",
+	"name": "Opore Ship Unit",
+	"description": "An incredibly advanced ground healing ship unit.",
 	"speed": 0.5,
 	"flying": true,
 	"health": 500,

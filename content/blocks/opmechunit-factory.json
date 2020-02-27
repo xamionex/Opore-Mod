@@ -1,6 +1,6 @@
 {
-	"name": "Opore Mech Factory",
-	"description": "Makes opore mech units.",
+	"name": "Opore Ship Factory",
+	"description": "Makes opore ship units.",
 	"type": "UnitFactory",
 	"unitType": "opmechunit",
 	"size": 3,
