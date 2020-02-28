@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Azurite Conveyor",
-	"description": "An Azurite conveyor, faster than the void conveyor.",
+	"description": "An Azurite conveyor, faster than the void conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)",
     "health": 150,
 	"requirements": [
 		{"item": "titanium", "amount": 3},

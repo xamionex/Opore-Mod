@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Holy Conveyor",
-	"description": "A Holy conveyor, faster than the opore conveyor.",
+	"description": "A Holy conveyor, faster than the opore conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)",
     "health": 100,
 	"requirements": [
 		{"item": "titanium", "amount": 3},
