@@ -62,6 +62,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 2 Mar @ 3:37pm Update 58: Fixed large batteries having "oh no" texture, fixed small batteries looking odd in the middle where there was a slight orange bit on the edge
 * 28 Feb @ 7:17am Update 57: Fixed battery sprite errors, tried to fix conveyor 0 move speed in description (they do work, it just shows 0 for every single one but trust me they still work as intended. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)
 * 27 Feb @ 10:36am Update 56: Added mech units and changed names of the ship units
 * 30 Jan @ 11:51am Update 55: Fixed antomius extractor
