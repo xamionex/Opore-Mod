@@ -70,6 +70,6 @@
 		{ "item": "surge-alloy", "amount": 400 }
 	],
 	"category": "turret",
-	"research": "spectre",
+	"research": "vo-spectre",
 	"shootSound": "bigshot"
 }

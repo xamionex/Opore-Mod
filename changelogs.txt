@@ -1,3 +1,4 @@
+* 9 Mar @ 10:44pm Update 59: Fixed Icy Crashdown having no modded ores and showing there are and having wait for waves turned on, Severely made castle map easier (now rushable), Changed forceglass recipe, made 2 new materials with their own forges, changed tech tree, shaded holy ore turrets
 * 2 Mar @ 3:37pm Update 58: Fixed large batteries having "oh no" texture, fixed small batteries looking odd in the middle where there was a slight orange bit on the edge
 * 28 Feb @ 7:17am Update 57: Fixed battery sprite errors, tried to fix conveyor 0 move speed in description (they do work, it just shows 0 for every single one but trust me they still work as intended. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)
 * 27 Feb @ 10:36am Update 56: Added mech units and changed names of the ship units

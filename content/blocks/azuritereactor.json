@@ -1,7 +1,7 @@
 {
 	"type": "ImpactReactor",
 	"name": "Azurite Impact Reactor",
-	"description": "An impact reactor that uses azurite and azonite.",
+	"description": "An impact reactor that uses multiple ores and alot of power to make more power.",
 	"size": 4,
 	"health": 9000,
 	"hasPower": true,

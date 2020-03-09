@@ -60,5 +60,5 @@
 		{ "item": "azurite", "amount": 25 },
 	],
 	"category": "turret",
-	"research": "ho-turret"
+	"research": "vo-turret"
 }

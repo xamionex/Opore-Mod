@@ -63,6 +63,6 @@
 		{ "item": "surge-alloy", "amount": 400 }
 	],
 	"category": "turret",
-	"research": "ripple",
+	"research": "vo-ripple",
 	"shootSound": "shootSnap"
 }

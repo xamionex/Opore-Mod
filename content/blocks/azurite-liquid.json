@@ -1,8 +1,8 @@
 {
     "type": "floor"
-    "name": "Liquid Opore"
+    "name": "Liquid Azurite"
     "isLiquid": true
-    "liquidDrop": "liquid-opore"
+    "liquidDrop": "liquid-frazzure"
     "variants": 0
     "statusDuration": 300
     "speedMultiplier": 0.1

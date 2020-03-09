@@ -1,10 +1,10 @@
 {
 	"type": "GenericSmelter",
-	"name": "ForceGlass Forge",
-	"description": "This mixes metaglass, opore sand and antomius to make ForceGlass.",
+	"name": "Opore Sand Forge",
+	"description": "This mixes opore and a little frazzure liquid to make opore sand",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
-	"outputItem": {"item": "forceglass", "amount": 10},
+	"outputItem": {"item": "op-powder", "amount": 10},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -12,26 +12,24 @@
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 1.0,
+		"power": 0.8,
 		"items": {
 			"items": [
-				{ "item": "op-pykrete", "amount": 5 },
-				{ "item": "metaglass", "amount": 5 }
+				{ "item": "opore", "amount": 10 }
 			]
 		},
 		"liquid": {
-			"liquid": "liquid-antomius",
-			"amount": 0.1
+			"liquid": "liquid-frazzure",
+			"amount": 0.05
 		}
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
-		{ "item": "metaglass", "amount": 80 },
 		{ "item": "opore", "amount": 80 },
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
-	"research": "ho-forge",
+	"research": "opore-forge",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
