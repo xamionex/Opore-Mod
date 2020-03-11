@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "ForceGlass",
-	"description": "A Protective kind of glass used for planes.",
+	"description": "A Protective kind of glass used for vehicles or very important places.",
 	"hardness": 9,
 	"cost": 2.0,
 	"color": "c3c9c5",

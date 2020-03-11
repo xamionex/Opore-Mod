@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Armor scales",
-	"description": "Armor scales for a bomber.",
+	"description": "Armor scales for vehicles or specific places.",
 	"hardness": 10,
 	"cost": 2.0,
 	"color": "1b1f1c",

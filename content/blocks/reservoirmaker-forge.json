@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "Filled Bomber Reservoir Forge",
+	"name": " Reservoir Factory",
 	"description": "This constructs and fills a reservoir for vehicles.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,

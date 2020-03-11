@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "Opore Sand Forge",
-	"description": "This mixes opore and a little frazzure liquid to make opore sand",
+	"name": "Opore Sand Crusher",
+	"description": "This crushes opore to make opore sand",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "op-powder", "amount": 10},

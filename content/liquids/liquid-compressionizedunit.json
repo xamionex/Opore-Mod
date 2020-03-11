@@ -1,6 +1,6 @@
 {
-	"name": "Compressionized Unit",
-	"description": "Some kind of ground type liquid that's almost transparent.",
+	"name": "Ollium",
+	"description": "Transparent liquid which is the opposite of gallium.",
 	"temperature": 0.65,
 	"amount": 0.5,
     "viscosity": 0.6,

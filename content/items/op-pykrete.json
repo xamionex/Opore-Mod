@@ -1,6 +1,6 @@
 {
 	"type": "resource",
-	"name": "Opore Pykrete",
-	"description": "Opore Pykrete. Only used for glass making.",
+	"name": "Opore Composite",
+	"description": "Opore Composite. Only used in manufacturing.",
 	"color": "c4a956"
 }

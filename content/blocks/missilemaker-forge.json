@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "Missile Forge",
-	"description": "This mixes thorium and liquid opore to make a missile part.",
+	"name": "Missile Fabricator",
+	"description": "This mixes thorium and liquid opore to fabricate a missile part.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "missilepart", "amount": 1},

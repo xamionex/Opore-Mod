@@ -1,7 +1,7 @@
 {
 	"type": "material",
-	"name": "Compressionized Titanium",
-	"description": "Compressed Titanium used to make small thing because of its bendability before its rock solid.",
+	"name": "Densetanium",
+	"description": "Densetanium is used to make small things because of its bendability before its rock solid.",
 	"hardness": 5,
 	"cost": 2.0,
 	"color": "5279ff",

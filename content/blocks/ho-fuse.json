@@ -7,6 +7,7 @@
     "hasPower": true,
     "hasLiquids": true, 
     "shootType": "lancerLaser",
+    "shootSound": "ho-fuse",
     "health": 2300,
     "size": 3,
     "inaccuracy": 0,

@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Missile part",
-	"description": "A Missile part for vehicles.",
+	"description": "A Missile part for weapons.",
 	"hardness": 8,
 	"cost": 2.0,
 	"color": "212121",

@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "ForceGlass Forge",
-	"description": "This mixes metaglass, opore sand and antomius to make ForceGlass.",
+	"name": "ForceGlass Casting Basin",
+	"description": "casts a composite of opore and metaglass over a bed of antomius to make perfectly flat panes of forceglass.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "forceglass", "amount": 10},

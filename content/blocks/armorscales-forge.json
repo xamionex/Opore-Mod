@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "Armor Scale Forge",
-	"description": "This mixes very strong voidore parts and uses liquid opore to make them stronger to make armor scales for vehicles.",
+	"name": "Armor Scale Caster",
+	"description": "This casts very strong voidore parts, uses liquid opore to make them stronger, results are armor scales for vehicles.",
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
 	"outputItem": {"item": "armorscales", "amount": 3},
