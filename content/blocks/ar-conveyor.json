@@ -1,0 +1,15 @@
+{
+	"type": "Conveyor",
+	"name": "Armorscale Conveyor",
+	"description": "An armorscale conveyor, faster than the azonite conveyor and has massive protection. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Armorscale->Azurite->Azonite->Forceglass)",
+    "health": 2500,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "armorscales", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.45,
+	"research": "vo-conveyor"
+}

@@ -4,7 +4,7 @@
 	"description": "This mixes every opore mod item (except liquids) to create azonite",
 	"liquidCapacity": 50,
 	"itemCapacity": 1000,
-	"outputItem": {"item": "azonite", "amount": 10},
+	"outputItem": {"item": "azonite", "amount": 5},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
@@ -15,18 +15,14 @@
 		"power": 5.0,
 		"items": {
 			"items": [
-				{ "item": "opore", "amount": 10 },
-				{ "item": "holyore", "amount": 10 },
-				{ "item": "voidore", "amount": 10 },
-				{ "item": "azurite", "amount": 10 },
-				{ "item": "frazzure", "amount": 10 },
+				{ "item": "opore", "amount": 2 },
+				{ "item": "holyore", "amount": 2 },
+				{ "item": "voidore", "amount": 2 },
+				{ "item": "azurite", "amount": 2 },
+				{ "item": "frazzure", "amount": 2 },
 				{ "item": "megaopore", "amount": 2 }
 			]
 		},
-		"liquid": {
-			"liquid": "cryofluid",
-			"amount": 0.1
-		}
 	},
 	"requirements": [
 		{ "item": "opore", "amount": 50 },

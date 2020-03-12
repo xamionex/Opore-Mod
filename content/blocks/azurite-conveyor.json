@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Azurite Conveyor",
-	"description": "An Azurite conveyor, faster than the void conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)",
+	"description": "An Azurite conveyor, faster than the armorscale conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Armorscale->Azurite->Azonite->Forceglass)",
     "health": 150,
 	"requirements": [
 		{"item": "titanium", "amount": 3},
@@ -10,6 +10,6 @@
 		{"item": "azurite", "amount": 3}
 	],
 	"category": "distribution",
-	"speed": 0.35,
-	"research": "vo-conveyor"
+	"speed": 0.55,
+	"research": "ar-conveyor"
 }

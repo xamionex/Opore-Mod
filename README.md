@@ -62,6 +62,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 12 Mar @ 10:27pm Update 61: Made nano mech & pod transparent, added armorscale, forceglass conveyors, changed conveyor speeds
 * 12 Mar @ 12:48am Update 60: Resprited most of the icons and 2 buildings, changed names and descriptions of multiple things, changed some recipes, added fuse sounds ((HUGE THANKS TO Austion5003#2794)). More updates to come :)
 * 9 Mar @ 10:44pm Update 59: Fixed Icy Crashdown having no modded ores and showing there are and having wait for waves turned on, Severely made castle map easier (now rushable), Changed forceglass recipe, made 2 new materials with their own forges, changed tech tree, shaded holy ore turrets
 * 2 Mar @ 3:37pm Update 58: Fixed large batteries having "oh no" texture, fixed small batteries looking odd in the middle where there was a slight orange bit on the edge

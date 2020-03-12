@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Void Conveyor",
-	"description": "A Void conveyor, faster than the holy conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Azurite->Azonite)",
+	"description": "A Void conveyor, faster than the holy conveyor. (PS. Ignore the move speed thing below, it has a speed just there's something wrong and it's not showing it. Tier list: Opore->HolyOre->VoidOre->Armorscale->Azurite->Azonite->Forceglass)",
     "health": 120,
 	"requirements": [
 		{"item": "titanium", "amount": 3},
@@ -10,6 +10,6 @@
 		{"item": "voidore", "amount": 3}
 	],
 	"category": "distribution",
-	"speed": 0.24,
+	"speed": 0.35,
 	"research": "ho-conveyor"
 }
