@@ -1,3 +1,5 @@
+* 27 Mar @ 7:39pm Update 63: Removed unnecessary files
+* 27 Mar @ 7:25pm Update 62: Fixed fuses not firing lasers (thanks to Austin5003#2794 \ Though the lasers all deal the same damage [to compensate for it the higher tiers have faster reload times, more lasers, more health]), Changed drill requirements for azurite and azonite
 * 12 Mar @ 10:27pm Update 61: Made nano mech & pod transparent, added armorscale, forceglass conveyors, changed conveyor speeds
 * 12 Mar @ 12:48am Update 60: Resprited most of the icons and 2 buildings, changed names and descriptions of multiple things, changed some recipes, added fuse sounds ((HUGE THANKS TO Austin5003#2794)). More updates to come :)
 * 9 Mar @ 10:44pm Update 59: Fixed Icy Crashdown having no modded ores and showing there are and having wait for waves turned on, Severely made castle map easier (now rushable), Changed forceglass recipe, made 2 new materials with their own forges, changed tech tree, shaded holy ore turrets

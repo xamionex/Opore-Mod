@@ -12,37 +12,15 @@
     "size": 3,
     "inaccuracy": 0,
     "reload": 28,
-	"shots": 3,
+	"shots": 6,
     "recoil": 1,
-    "shootCone": 40,
     "rotateSpeed": 30,
-    "range": 110,
+    "range": 120,
 	"ammo": {
-		"opore": {
-			"speed": 3.0,
-			"damage": 175.0,
-			"bulletWidth": 16,
-			"bulletHeight": 21,
-			"shootEffect": "lightningShoot",
-			"ammoMultiplier": 5
-		},
-		"holyore": {
-			"speed": 3.0,
-			"damage": 185.0,
-			"bulletWidth": 16,
-			"bulletHeight": 21,
-			"shootEffect": "lightningShoot",
-			"ammoMultiplier": 5
-		},
-		"voidore": {
-			"speed": 3.0,
-			"damage": 195.0,
-			"bulletWidth": 16,
-			"bulletHeight": 21,
-			"shootEffect": "lightningShoot",
-			"ammoMultiplier": 5
+		opore: lancerLaser
+		holyore: lancerLaser
+		voidore: lancerLaser
 		}
-	},
 	"requirements": [
 		{ "item": "voidore", "amount": 150 },
 		{ "item": "copper", "amount": 225 },

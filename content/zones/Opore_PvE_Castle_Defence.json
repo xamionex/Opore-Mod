@@ -1,6 +1,6 @@
 {
 	"name": "Opore Castle Defense",
-	"description": "You were just in your castle on your throne watching the beautiful skies but suddenly you get an alert that there are enemies attacking, defend your castle! [map made by Félix Córvus#3546 on discord]",
+	"description": "[red]WARNING: This map can crash your game and i have no clue why it does it, You were warned! [white]You were just in your castle on your throne watching the beautiful skies but suddenly you get an alert that there are enemies attacking, defend your castle! [map made by Félix Córvus#3546 on discord]",
 	"loadout": "basicFoundation",
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 600},
