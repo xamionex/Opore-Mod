@@ -1,6 +1,4 @@
 {
-	"name": "Holy Liquid",
-	"description": "Holy liquid, a natural resource after Jesus praised these lands.",
 	"temperature": 0.5,
 	"amount": 0.5,
     "viscosity": 0.45,

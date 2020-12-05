@@ -1,0 +1,13 @@
+{
+    "type": "floor"
+    "isLiquid": true
+    "liquidDrop": "liquid-opore"
+    "variants": 0
+    "statusDuration": 300
+    "speedMultiplier": 0.1
+    "status": "melting"
+    "cacheLayer": "tar"
+    "drownTime": 150
+	"edge": "stone"
+	"blendGroup": "stone"
+}

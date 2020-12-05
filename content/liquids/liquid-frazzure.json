@@ -1,6 +1,4 @@
 {
-	"name": "Frazzure",
-	"description": "A Frozen ore, extracted out of frazzure liquid caches or extracted from the ground using thorium and cryofluid.",
 	"temperature": 0.9,
 	"amount": 0.5,
     "viscosity": 0.4,

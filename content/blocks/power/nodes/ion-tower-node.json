@@ -1,0 +1,13 @@
+{
+	"type": "PowerNode",
+	"size": 2,
+	"health": 3000,
+	"maxNodes": 7,
+	"laserRange": 1000,
+	"requirements": [
+		{ "item": "ion", "amount": 1500 },
+		{ "item": "azonite", "amount": 100 }
+	],
+	"category": "power",
+	"research": "power-node-large"
+}

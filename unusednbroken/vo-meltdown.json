@@ -1,0 +1,45 @@
+{
+	"type": "LaserTurret",
+	"health": 7000,
+	"size": 4,
+	"targetAir": true,
+	"targetGround": true,
+	"hasPower": true,
+	"shots" : 1,
+	"recoil" : 2,
+	"range": 150,
+	"inaccuracy": 5,
+	"restitution" : 0.5, 
+	"rotatespeed": 5,
+	"shootCone" : 1,
+	"spread" : 1,
+	"rotateSpeed": 50,
+	"powerUse": 1,
+	"shootSound": "laserbig"
+	"reloadTime": 23,
+	"consumes": {
+		"power": 22
+	},
+	"shootType" : {
+		"type" : "BasicBulletType",
+		"trailEffect" : "artilleryTrail",
+		"speed": 6.5,
+		"lifetime" : 50,
+		"damage": 1400,
+		"bulletHeight" : 30,
+		"hitEffect": "hitLaser",
+		"pierce": true,
+		"frontColor": "000000",
+		"backColor": "585858"
+	}
+	"requirements": [
+		{ "item": "voidore", "amount": 100 },
+		{ "item": "copper", "amount": 300 },
+		{ "item": "lead", "amount": 400 },
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "silicon", "amount": 375 },
+		{ "item": "surge-alloy", "amount": 375 }
+	],
+	"category": "turret",
+	"research": "ho-meltdown",
+}

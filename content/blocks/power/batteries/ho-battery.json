@@ -1,0 +1,17 @@
+{
+  "type": "battery",
+  "size": 1,
+  "health": 700,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "op-battery",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "40000.0"
+	},
+  "requirements": [
+    { "item": "copper", "amount": "128" },
+    { "item": "lead", "amount": "320" },
+    { "item": "holyore", "amount": "320" },
+  ],
+}

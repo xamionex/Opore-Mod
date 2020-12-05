@@ -1,7 +1,5 @@
 {
-	"type": "flyingUnit",
-	"name": "Opore Ship Unit",
-	"description": "An incredibly advanced ground healing ship unit.",
+	"type": "flying",
 	"speed": 0.5,
 	"flying": true,
 	"health": 500,

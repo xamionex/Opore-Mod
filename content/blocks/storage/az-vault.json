@@ -1,0 +1,14 @@
+{
+	"type": "Vault",
+	"itemCapacity": 150000,
+	"hasItems": true,
+	"health": 20000,
+	"size": 3,
+	"requirements": [
+		{ "item": "azonite", "amount": 175 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "effect",
+	"research": "vo-vault"
+}

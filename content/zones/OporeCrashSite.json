@@ -1,6 +1,4 @@
 {
-	"name": "Opore Crash Site",
-	"description": "You were flying in a ship but something struck you down with great force, defend yourself from enemies incoming.",
 	"loadout": "basicFoundation",
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 700},

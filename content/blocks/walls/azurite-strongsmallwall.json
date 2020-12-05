@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 2500,
+	"size": 1,
+	"requirements": [
+		{ "item": "azurite", "amount": 75 }
+	],
+	"category": "defense",
+	"research": "vo-strongsmallwall"
+}

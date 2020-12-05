@@ -1,8 +1,0 @@
-{
-	"type": "OreBlock",
-	"name": "Azonite Ore",
-	"itemDrop": "azonite",
-	"variants": 3,
-	"playerUnmineable": true
-	"color": "fb00ff"
-}

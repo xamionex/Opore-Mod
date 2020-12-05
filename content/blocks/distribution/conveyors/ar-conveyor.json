@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+    "health": 2500,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "armorscales", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.45,
+	"research": "vo-conveyor"
+}

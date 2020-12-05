@@ -1,7 +1,5 @@
 {
-	"type": "flyingUnit",
-	"name": "Void Ship Unit",
-	"description": "An incredibly advanced explosive attack ship unit.",
+	"type": "flying",
 	"speed": 0.7,
 	"flying": true,
 	"health": 1000,

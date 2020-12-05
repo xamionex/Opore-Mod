@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 1000,
+	"size": 1,
+	"requirements": [
+		{ "item": "opore", "amount": 20 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

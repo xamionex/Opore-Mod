@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Mega Opore",
-	"description": "A Mega variant of opore, made from combining liquid and solid opore, it's kind of goldish textured",
 	"hardness": 5,
 	"cost": 2.0,
 	"color": "750808",

@@ -1,0 +1,62 @@
+{
+	"type": "ItemTurret",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 9920,
+	"size": 4,
+	"reload": 5,
+	"shots": 4,
+	"recoil": 3,
+    "shootCone": 40,
+	"rotateSpeed": 50,
+	"range": 290,
+	"consumes": {
+		"liquid": {
+			"liquid": "liquid-voidore", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"ammoTypes": {
+		"voidore": {
+			"lifetime": 5000,
+			"speed": 5,
+			"damage": 69,
+			"spread": 20,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"ammoMultiplier": 2,
+			"frontColor": "000000",
+			"backColor": "000000"
+		},
+		"frazzure": {
+			"lifetime": 5000,
+			"speed": 6,
+			"damage": 69,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"homingRange":120,
+			"homingPower":7,
+			"ammoMultiplier": 2,
+			"frontColor": "00ffff",
+			"backColor": "00ffff"
+		}
+	},
+	"requirements": [
+		{ "item": "voidore", "amount": 550 },
+		{ "item": "copper", "amount": 450 },
+		{ "item": "graphite", "amount": 400 },
+		{ "item": "thorium", "amount": 350 },
+		{ "item": "plastanium", "amount": 275 },
+		{ "item": "surge-alloy", "amount": 450 }
+	],
+	"category": "turret",
+	"research": "ho-spectre",
+	"shootSound": "shootBig"
+}

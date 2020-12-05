@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 40000,
+	"size": 4,
+	"requirements": [
+		{ "item": "azurite", "amount": 450 }
+	],
+	"category": "defense",
+	"research": "vo-gigawall"
+}

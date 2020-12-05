@@ -1,0 +1,34 @@
+{
+	"type": "GenericSmelter",
+	"liquidCapacity": 50,
+	"itemCapacity": 1000,
+	"outputItem": {"item": "ion", "amount": 30},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 240,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 6.0,
+		"items": {
+			"items": [
+				{ "item": "azonite", "amount": 1 }
+			]
+		},
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.2
+		}
+	},
+	"requirements": [
+		{ "item": "azonite", "amount": 30 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "az-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

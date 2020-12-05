@@ -1,0 +1,7 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "azonite",
+	"variants": 3,
+	"playerUnmineable": true
+	"color": "fb00ff"
+}

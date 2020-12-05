@@ -1,0 +1,13 @@
+{
+    "type": "floor"
+    "isLiquid": true
+    "liquidDrop": "liquid-voidore"
+    "variants": 0
+    "statusDuration": 300
+    "speedMultiplier": 0.1
+    "status": "burning"
+    "cacheLayer": "tar"
+    "drownTime": 160
+	"edge": "stone"
+	"blendGroup": "stone"
+}

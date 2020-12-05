@@ -1,0 +1,18 @@
+{
+  "type": "battery",
+  "size": 3,
+  "health": 2000,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "op-battery",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "300000.0"
+	},
+  "requirements": [
+    { "item": "lead", "amount": "320" },
+    { "item": "titanium", "amount": "160" },
+    { "item": "silicon", "amount": "160" },
+    { "item": "opore", "amount": "150" }
+  ],
+}

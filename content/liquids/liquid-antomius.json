@@ -1,6 +1,4 @@
 {
-	"name": "Antomius Liquid",
-	"description": "Antomius, a substance used to make really strong glass.",
 	"temperature": 0.6,
 	"amount": 0.5,
     "viscosity": 0.70,

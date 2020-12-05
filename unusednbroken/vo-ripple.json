@@ -1,0 +1,39 @@
+{
+	"type": "ItemTurret",
+	"targetAir": false,
+	"targetGround": true,
+	"health": 1500,
+	"size": 3,
+	"inaccuracy": 12,
+	"reload": 23,
+	"shots": 5,
+	"recoil": 3,
+	"shootCone": 24,
+	"rotateSpeed": 50,
+	"range": 305,
+	"ammo": {
+		"voidore": {
+			"speed": 4,
+			"damage": 77,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "burning",
+			"ammoMultiplier": 2,
+			"frontColor": "000000",
+			"backColor": "000000"
+		}
+	},
+	"requirements": [
+		{ "item": "voidore", "amount": 300 },
+		{ "item": "copper", "amount": 400 },
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "plastanium", "amount": 225 },
+		{ "item": "surge-alloy", "amount": 400 }
+	],
+	"category": "turret",
+	"research": "ho-ripple",
+	"shootSound": "shootSnap"
+}

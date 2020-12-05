@@ -1,0 +1,6 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "opore",
+	"variants": 3,
+	"playerUnmineable": true
+}

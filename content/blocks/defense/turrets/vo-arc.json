@@ -1,0 +1,39 @@
+{
+    "type": "PowerTurret",
+    "targetAir": false,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquid": false,
+    "health": 800,
+    "size": 4,
+    "inaccuracy": 5,
+	"shots": 4,
+    "recoil": 4,
+    "shootCone": 40,
+    "rotateSpeed": 30,
+    "range": 135,
+	"reloadTime": 175,
+	"powerUse": 24,
+	"shootType" : {
+		"type" : "LaserBulletType",
+		"length": 135,
+		"damage": 690,
+		"width": 60
+		"lifetime": 60,
+		"lightningSpacing": 70,
+		"lightningLength": 6,
+		"lightningDelay": 1.0,
+		"lightningDamage": 65,
+		"sideAngle": 15,
+		"sideWidth": 0,
+		"sideLength": 0,
+	}
+    "requirements": [
+        { "item": "voidore", "amount": 75 },
+        { "item": "copper", "amount": 35 },
+        { "item": "lead", "amount": 50 }
+    ],
+    "category": "turret",
+    "shootSound": "spark",
+	"research": "ho-arc"
+}

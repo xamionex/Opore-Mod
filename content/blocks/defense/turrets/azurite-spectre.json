@@ -1,0 +1,62 @@
+{
+	"type": "ItemTurret",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 12500,
+	"size": 4,
+	"reload": 5,
+	"shots": 5,
+	"recoil": 3,
+    "shootCone": 40,
+	"rotateSpeed": 50,
+	"range": 310,
+	"consumes": {
+		"liquid": {
+			"liquid": "liquid-frazzure", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"ammoTypes": {
+		"azurite": {
+			"lifetime": 5000,
+			"speed": 6,
+			"damage": 87,
+			"spread": 20,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "burning",
+			"ammoMultiplier": 2,
+			"frontColor": "ff6a00",
+			"backColor": "ff6a00"
+		},
+		"frazzure": {
+			"lifetime": 5000,
+			"speed": 6,
+			"damage": 76,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"homingRange":120,
+			"homingPower":7,
+			"ammoMultiplier": 2,
+			"frontColor": "00ffff",
+			"backColor": "00ffff"
+		}
+	},
+	"requirements": [
+		{ "item": "azurite", "amount": 300 },
+		{ "item": "copper", "amount": 400 },
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "plastanium", "amount": 225 },
+		{ "item": "surge-alloy", "amount": 400 }
+	],
+	"category": "turret",
+	"research": "vo-spectre",
+	"shootSound": "bigshot"
+}

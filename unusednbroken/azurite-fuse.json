@@ -1,0 +1,56 @@
+{
+	"type": "ItemTurret",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquids": true, 
+    "shootSound": "az-fuse",
+    "health": 3000,
+    "size": 3,
+    "inaccuracy": 0,
+    "reload": 25,
+	"shots": 7,
+    "recoil": 1,
+    "rotateSpeed": 30,
+    "range": 130,
+	"ammoType": {
+		"opore": {
+			"bulletType" : "LaserBulletType",
+			"speed": 3.0,
+			"damage": 30.0,
+			"ammoMultiplier": 5
+		},
+		"graphite": {
+			"bulletType" : "LaserBulletType",
+			"speed": 3.0,
+			"damage": 45.0,
+			"ammoMultiplier": 5
+		}
+		"holyore": {
+			"bulletType" : "LaserBulletType",
+			"speed": 3.0,
+			"damage": 35.0,
+			"ammoMultiplier": 5
+		},
+		"voidore": {
+			"bulletType" : "LaserBulletType",
+			"speed": 3.0,
+			"damage": 49.0,
+			"ammoMultiplier": 5
+		},
+		"azurite": {
+			"bulletType" : "LaserBulletType",
+			"speed": 3.0,
+			"damage": 55.0,
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "azurite", "amount": 150 },
+		{ "item": "copper", "amount": 225 },
+		{ "item": "graphite", "amount": 225 },
+		{ "item": "thorium", "amount": 100 }
+	],
+	"category": "turret",
+	"research": "vo-fuse"
+}

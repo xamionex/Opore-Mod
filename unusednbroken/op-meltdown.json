@@ -1,0 +1,45 @@
+{
+	"type": "PowerTurret",
+	"health": 6400,
+	"size": 4,
+	"targetAir": true,
+	"targetGround" : true,
+	"hasPower": true,
+	"shots" : 1,
+	"recoil" : 2,
+	"range": 200,
+	"inaccuracy": 5,
+	"restitution" : 0.5, 
+	"rotatespeed": 5,
+	"shootCone" : 1,
+	"spread" : 1,
+	"rotateSpeed": 50,
+	"powerUse": 1,
+	"shootSound": "laserbig"
+	"reloadTime": 30,
+	"consumes": {
+		"power": 20
+	},
+	"shootType" : {
+		"type" : "BasicBulletType",
+		"trailEffect" : "artilleryTrail",
+		"speed": 6.5,
+		"lifetime" : 50,
+		"damage": 1000,
+		"bulletHeight" : 30,
+		"hitEffect": "hitLaser",
+		"pierce": true,
+		"frontColor": "ec1c24",
+		"backColor": "88001b"
+	}
+	"requirements": [
+		{ "item": "opore", "amount": 100 },
+		{ "item": "copper", "amount": 300 },
+		{ "item": "lead", "amount": 400 },
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "silicon", "amount": 375 },
+		{ "item": "surge-alloy", "amount": 375 }
+	],
+	"category": "turret",
+	"research": "meltdown",
+}

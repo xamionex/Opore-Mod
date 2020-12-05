@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+    "health": 120,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "voidore", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.35,
+	"research": "ho-conveyor"
+}

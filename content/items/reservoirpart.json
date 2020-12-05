@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Reservoir part",
-	"description": "A Reservoir part for engines.",
 	"hardness": 8,
 	"cost": 2.0,
 	"color": "404040",

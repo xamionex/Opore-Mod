@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+    "health": 300,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "azonite", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.65,
+	"research": "azurite-conveyor"
+}

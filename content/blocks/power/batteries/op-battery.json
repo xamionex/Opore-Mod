@@ -1,0 +1,17 @@
+{
+  "type": "battery",
+  "size": 1,
+  "health": 500,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "power-node",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "10000.0"
+	},
+  "requirements": [
+    { "item": "copper", "amount": "32" },
+    { "item": "lead", "amount": "160" },
+    { "item": "opore", "amount": "80" },
+  ],
+}

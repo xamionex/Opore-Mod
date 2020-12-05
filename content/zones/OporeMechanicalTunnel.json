@@ -1,6 +1,4 @@
 {
-	"name": "Opore Mechanical Tunnel",
-	"description": "You find yourself in an abandoned tunnel, enemies are coming and you should prepare to defend yourself. [map made by Pusheen#3121 on discord]",
 	"loadout": "basicFoundation",
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 500},

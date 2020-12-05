@@ -1,0 +1,17 @@
+{
+  "type": "battery",
+  "size": 1,
+  "health": 500,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "vo-battery",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "640000.0"
+	},
+  "requirements": [
+    { "item": "copper", "amount": "1280" },
+    { "item": "lead", "amount": "2048" },
+    { "item": "azurite", "amount": "2048" },
+  ],
+}

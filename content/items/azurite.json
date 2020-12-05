@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Azurite",
-	"description": "A Highly flammable ore, made from thorium and cryofluid.",
 	"hardness": 8,
 	"cost": 2.0,
 	"color": "ff6a00"

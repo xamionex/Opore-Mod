@@ -1,0 +1,18 @@
+{
+  "type": "battery",
+  "size": 3,
+  "health": 2700,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "ho-battery-large",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "4800000.0"
+	},
+  "requirements": [
+    { "item": "lead", "amount": "5120" },
+    { "item": "titanium", "amount": "2560" },
+    { "item": "silicon", "amount": "2560" },
+    { "item": "voidore", "amount": "1200" }
+  ],
+}

@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Azonite",
-	"description": "A Very rare-to-find highly flammable and explosive crystal, alternatively crafted from every opore mod item.",
 	"hardness": 9,
 	"cost": 2.0,
 	"color": "fb00ff",

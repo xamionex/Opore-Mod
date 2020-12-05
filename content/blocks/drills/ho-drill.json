@@ -1,0 +1,22 @@
+{
+	"type": "Drill",
+	"size": 4,
+	"tier": 7,
+	"drillTime": 150.0,
+	"consumes": {
+		"power": 3.2,
+		"liquid": {
+			"liquid": "liquid-holyore", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "holyore", "amount": 50 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "op-drill"
+}

@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 25000,
+	"size": 4,
+	"requirements": [
+		{ "item": "opore", "amount": 450 }
+	],
+	"category": "defense",
+	"research": "op-hugewall"
+}

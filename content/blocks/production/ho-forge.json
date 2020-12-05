@@ -1,0 +1,32 @@
+{
+	"type": "GenericSmelter",
+	"liquidCapacity": 50,
+	"itemCapacity": 50,
+	"outputItem": {"item": "holyore", "amount": 5},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 15 }
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 60 },
+		{ "item": "lead", "amount": 60 },
+	],
+	"category": "crafting",
+	"research": "opore-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

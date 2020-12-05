@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 27000,
+	"size": 4,
+	"requirements": [
+		{ "item": "holyore", "amount": 400 }
+	],
+	"category": "defense",
+	"research": "op-gigawall"
+}

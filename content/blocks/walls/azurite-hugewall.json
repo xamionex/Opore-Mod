@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 22000,
+	"size": 3,
+	"requirements": [
+		{ "item": "azurite", "amount": 360 }
+	],
+	"category": "defense",
+	"research": "vo-hugewall"
+}

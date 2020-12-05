@@ -1,0 +1,6 @@
+{
+	"type": "floor",
+	"itemDrop": "op-powder",
+	"variants": 3,
+	"playerUnmineable": true
+}

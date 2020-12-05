@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 20000,
+	"size": 3,
+	"requirements": [
+		{ "item": "voidore", "amount": 200 }
+	],
+	"category": "defense",
+	"research": "ho-hugewall"
+}

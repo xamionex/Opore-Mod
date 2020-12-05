@@ -1,0 +1,62 @@
+{
+	"type": "ItemTurret",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 8000,
+	"size": 4,
+	"reload": 6,
+	"shots": 3,
+	"recoil": 3,
+    "shootCone": 40,
+	"rotateSpeed": 50,
+	"range": 250,
+	"consumes": {
+		"liquid": {
+			"liquid": "liquid-holyore", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"ammoTypes": {
+		"holyore": {
+			"lifetime": 5000,
+			"speed": 4,
+			"damage": 58,
+			"spread": 20,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"ammoMultiplier": 2,
+			"frontColor": "f54242",
+			"backColor": "ff0000"
+		},
+		"frazzure": {
+			"lifetime": 5000,
+			"speed": 6,
+			"damage": 55,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"effects": "freezing",
+			"homingRange":120,
+			"homingPower":7,
+			"ammoMultiplier": 2,
+			"frontColor": "00ffff",
+			"backColor": "00ffff"
+		}
+	},
+	"requirements": [
+		{ "item": "holyore", "amount": 500 },
+		{ "item": "copper", "amount": 425 },
+		{ "item": "graphite", "amount": 375 },
+		{ "item": "thorium", "amount": 325 },
+		{ "item": "plastanium", "amount": 250 },
+		{ "item": "surge-alloy", "amount": 425 }
+	],
+	"category": "turret",
+	"research": "op-spectre",
+	"shootSound": "shootBig"
+}

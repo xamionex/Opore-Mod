@@ -1,0 +1,22 @@
+{
+	"type": "Drill",
+	"size": 4,
+	"tier": 9,
+	"drillTime": 85.0,
+	"consumes": {
+		"power": 3.5,
+		"liquid": {
+			"liquid": "liquid-frazzure", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "azurite", "amount": 60 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "vo-drill"
+}

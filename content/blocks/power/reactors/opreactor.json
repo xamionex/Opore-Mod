@@ -1,0 +1,38 @@
+{
+	"type": "ImpactReactor",
+	"size": 4,
+	"health": 5000,
+	"hasPower": true,
+	"hasItems": true,
+	"hasLiquids": false,
+	"outputsPower": true,
+	"consumesPower": true,
+	"plasmas": 4,
+	"warmupSpeed": 0.001,
+	"itemDuration": 135,
+	"itemCapacity": 50,
+	"powerProduction": 155.0,
+	"consumes": {
+	    "power": 15.0,
+		"items": {
+			"items": [
+				{ "item": "megaopore", "amount": 1 },
+				{ "item": "azurite", "amount": 5 },
+				{ "item": "frazzure", "amount": 5 },
+				{ "item": "opore", "amount": 5 }
+			],
+			"optional": false
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 500 },
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "graphite", "amount": 400 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "surge-alloy", "amount": 80 },
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "opore", "amount": 500 }
+	],
+	"category": "power",
+	"research": "impact-reactor"
+}

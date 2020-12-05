@@ -1,0 +1,27 @@
+{
+	"type": "Fracker",
+	"liquidCapacity": 50,
+	"itemCapacity": 50,
+	"result": "liquid-antomius",
+	"size": 3,
+    "atttribute": "oil",
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"pumpAmount": 0.2,
+	"updateEffect": "pulverize",
+    "updateEffectChance": 0.08,
+	"consumes": {
+		"power": 3.0,
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 100 },
+		{ "item": "titanium", "amount": 150 },
+		{ "item": "silicon", "amount": 160 },
+		{ "item": "metaglass", "amount": 70 }
+	],
+	"category": "production",
+	"research": "oil-extractor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

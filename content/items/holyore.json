@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Holy Ore",
-	"description": "Holy ore, a natural resource after Jesus praised these lands.",
 	"hardness": 6,
 	"cost": 2.0,
 	"color": "ffffff"

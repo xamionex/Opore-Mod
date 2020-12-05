@@ -1,7 +1,5 @@
 {
-	"type": "GroundUnit",
-	"name": "Holy Mech Unit",
-	"description": "An incredibly advanced lightning attack mech unit.",
+	"type": "mech",
 	"speed": 0.08,
 	"flying": false,
 	"health": 700,

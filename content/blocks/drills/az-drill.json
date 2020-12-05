@@ -1,0 +1,22 @@
+{
+	"type": "Drill",
+	"size": 4,
+	"tier": 9,
+	"drillTime": 80.0,
+	"consumes": {
+		"power": 3.5,
+		"liquid": {
+			"liquid": "liquid-voidore", 
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "azonite", "amount": 60 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "vo-drill"
+}

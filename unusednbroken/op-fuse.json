@@ -1,0 +1,71 @@
+{
+	"type": "ItemTurret",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+    "hasLiquids": true, 
+    "shootSound": "op-fuse",
+    "health": 2000,
+    "size": 3,
+    "inaccuracy": 0,
+    "reload": 32,
+	"shots": 4,
+    "recoil": 1,
+    "rotateSpeed": 30,
+    "range": 100,
+	"ammo": {
+		"opore": {
+			"speed": 3.0,
+			"damage": 30.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"graphite": {
+			"speed": 3.0,
+			"damage": 45.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+		"holyore": {
+			"speed": 3.0,
+			"damage": 35.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"voidore": {
+			"speed": 3.0,
+			"damage": 49.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"azurite": {
+			"speed": 3.0,
+			"damage": 55.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "opore", "amount": 150 },
+		{ "item": "copper", "amount": 225 },
+		{ "item": "graphite", "amount": 225 },
+		{ "item": "thorium", "amount": 100 }
+	],
+	"category": "turret",
+	"research": "fuse"
+}

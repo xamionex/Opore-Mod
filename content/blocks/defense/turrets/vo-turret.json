@@ -1,0 +1,61 @@
+{
+	"type": "ItemTurret",
+	"health": 2000,
+	"size": 1,
+	"reload": 8.0,
+	"range": 180,
+	"inaccuracy": 1,
+	"rotatespeed": 12,
+	"ammoTypes": {
+		"voidore": {
+			"speed": 3.0,
+			"damage": 49.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"opore": {
+			"speed": 3.0,
+			"damage": 30.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"holyore": {
+			"speed": 3.0,
+			"damage": 35.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"azurite": {
+			"speed": 3.0,
+			"damage": 55.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		},
+		"graphite": {
+			"speed": 3.0,
+			"damage": 45.0,
+			"bulletWidth": 16,
+			"bulletHeight": 21,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 5
+		}
+	},
+	"requirements": [
+		{ "item": "voidore", "amount": 25 },
+	],
+	"category": "turret",
+	"research": "ho-turret"
+}

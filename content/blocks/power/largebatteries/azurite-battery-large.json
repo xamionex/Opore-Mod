@@ -1,0 +1,18 @@
+{
+  "type": "battery",
+  "size": 3,
+  "health": 3000,
+  "canOverdrive": true,
+  "category": "power",
+  "research": "vo-battery",
+  "BuildVisibility": "shown",
+  "consumes": {
+    "powerBuffered": "19200000.0"
+	},
+  "requirements": [
+    { "item": "lead", "amount": "10120" },
+    { "item": "titanium", "amount": "4560" },
+    { "item": "silicon", "amount": "4560" },
+    { "item": "azurite", "amount": "2400" }
+  ],
+}

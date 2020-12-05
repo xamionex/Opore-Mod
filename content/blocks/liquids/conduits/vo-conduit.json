@@ -1,0 +1,21 @@
+{
+	"type": "Conduit",
+    "health": 200,
+	"hasLiquids": true,
+	"liquidCapacity": 27,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "voidore", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.19,
+	"research": "ho-conduit"
+}

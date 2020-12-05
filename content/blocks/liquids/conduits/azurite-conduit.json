@@ -1,0 +1,21 @@
+{
+	"type": "Conduit",
+    "health": 300,
+	"hasLiquids": true,
+	"liquidCapacity": 22,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "azurite", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.35,
+	"research": "vo-conduit"
+}

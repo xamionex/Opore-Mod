@@ -1,6 +1,4 @@
 {
-	"name": "Broken Isolation",
-	"description": "You were isolated from all attacks but suddenly four of your walls have been breached, defend your position.",
 	"loadout": "basicFoundation",
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 2200},

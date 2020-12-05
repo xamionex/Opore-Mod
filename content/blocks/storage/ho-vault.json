@@ -1,0 +1,14 @@
+{
+	"type": "Vault",
+	"itemCapacity": 100000,
+	"hasItems": true,
+	"health": 13000,
+	"size": 3,
+	"requirements": [
+		{ "item": "holyore", "amount": 150 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "effect",
+	"research": "op-vault"
+}

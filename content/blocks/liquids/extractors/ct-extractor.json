@@ -1,0 +1,27 @@
+{
+	"type": "Fracker",
+	"liquidCapacity": 50,
+	"itemCapacity": 50,
+	"result": "liquid-compressionizedunit",
+	"size": 3,
+    "atttribute": "oil",
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"pumpAmount": 0.2,
+	"updateEffect": "pulverize",
+    "updateEffectChance": 0.08,
+	"consumes": {
+		"power": 2.0,
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "titanium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "metaglass", "amount": 50 }
+	],
+	"category": "production",
+	"research": "oil-extractor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

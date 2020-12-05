@@ -1,7 +1,5 @@
 {
-	"type": "GroundUnit",
-	"name": "Void Mech Unit",
-	"description": "An incredibly advanced explosive attack mech unit.",
+	"type": "mech",
 	"speed": 0.09,
 	"flying": false,
 	"health": 1000,

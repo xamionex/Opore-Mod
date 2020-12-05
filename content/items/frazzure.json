@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Frazzure",
-	"description": "A Freezing ore, made from thorium and cryofluid.",
 	"hardness": 5,
 	"cost": 2.0,
 	"color": "00ffff"

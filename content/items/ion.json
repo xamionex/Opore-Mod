@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Ion",
-	"description": "Ion Crystal, an amazing energy source.",
 	"hardness": 8,
 	"cost": 2.0,
 	"color": "03ecfc"

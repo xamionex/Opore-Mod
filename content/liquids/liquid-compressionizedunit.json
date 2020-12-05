@@ -1,6 +1,4 @@
 {
-	"name": "Ollium",
-	"description": "Transparent liquid which is the opposite of gallium.",
 	"temperature": 0.65,
 	"amount": 0.5,
     "viscosity": 0.6,

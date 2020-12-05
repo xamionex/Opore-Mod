@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"liquidCapacity": 50,
+	"itemCapacity": 50,
+	"outputItem": {"item": "forceglass", "amount": 10},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.0,
+		"items": {
+			"items": [
+				{ "item": "op-pykrete", "amount": 5 },
+				{ "item": "metaglass", "amount": 5 }
+			]
+		},
+		"liquid": {
+			"liquid": "liquid-antomius",
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "metaglass", "amount": 80 },
+		{ "item": "opore", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "ho-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

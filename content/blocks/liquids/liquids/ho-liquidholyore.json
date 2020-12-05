@@ -1,0 +1,13 @@
+{
+    "type": "floor"
+    "isLiquid": true
+    "liquidDrop": "liquid-holyore"
+    "variants": 0
+    "statusDuration": 300
+    "speedMultiplier": 0.1
+    "status": "freezing"
+    "cacheLayer": "water"
+    "drownTime": 160
+	"edge": "stone"
+	"blendGroup": "stone"
+}

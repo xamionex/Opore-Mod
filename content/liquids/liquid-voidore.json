@@ -1,6 +1,4 @@
 {
-	"name": "Void Liquid",
-	"description": "Void liquid, from the void itself.",
 	"temperature": 0.6,
 	"amount": 0.5,
     "viscosity": 0.70,

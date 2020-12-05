@@ -1,6 +1,4 @@
 {
-	"name": "Icy Crashdown",
-	"description": "You crashed on an icy planet of sorts, The crash site has burnt, dark blocks around, probably scattered from your impact. Be careful.",
 	"loadout": "basicNucleus",
 	"baseLaunchCost": [
     	{"item": "copper", "amount": 150},

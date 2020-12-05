@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Opore",
-	"description": "Standard Opore ore mined out of opore caches or made from thorium.",
 	"hardness": 5,
 	"cost": 2.0,
 	"color": "ff0000",

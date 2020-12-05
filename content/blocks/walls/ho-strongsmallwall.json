@@ -1,0 +1,10 @@
+{
+	"type": "Wall",
+	"health": 1800,
+	"size": 1,
+	"requirements": [
+		{ "item": "holyore", "amount": 125 }
+	],
+	"category": "defense",
+	"research": "op-strongsmallwall"
+}

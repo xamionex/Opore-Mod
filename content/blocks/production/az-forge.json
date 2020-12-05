@@ -1,0 +1,40 @@
+{
+	"type": "GenericSmelter",
+	"liquidCapacity": 50,
+	"itemCapacity": 1000,
+	"outputItem": {"item": "azonite", "amount": 5},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.0,
+		"items": {
+			"items": [
+				{ "item": "opore", "amount": 2 },
+				{ "item": "holyore", "amount": 2 },
+				{ "item": "voidore", "amount": 2 },
+				{ "item": "azurite", "amount": 2 },
+				{ "item": "frazzure", "amount": 2 },
+				{ "item": "megaopore", "amount": 2 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "opore", "amount": 50 },
+		{ "item": "holyore", "amount": 50 },
+		{ "item": "voidore", "amount": 50 },
+		{ "item": "azurite", "amount": 50 },
+		{ "item": "frazzure", "amount": 50 },
+		{ "item": "megaopore", "amount": 50 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "crafting",
+	"research": "vo-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

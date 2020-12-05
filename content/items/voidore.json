@@ -1,7 +1,5 @@
 {
 	"type": "material",
-	"name": "Voidore",
-	"description": "Void ore, From the void itself.",
 	"hardness": 7,
 	"cost": 2.0,
 	"color": "000000"
