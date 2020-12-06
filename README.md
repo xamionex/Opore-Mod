@@ -2,6 +2,7 @@
 * > [Description & Pictures](#Opore-Mod)
 * > [Credits](#Credits)
 * > [Updates](#Updates)
+* > [2019 Updates](#2019-Updates-Below)
 * > [Known Issues](#Known-Issues)
 * > [What i would like](#I-would-like)
 * > [Feedback](#Feedback)
@@ -62,6 +63,8 @@ because you get automatic updates whenever i update the mod, also its easier for
 * [Changelogs.txt](https://github.com/xamionex/Opore-Mod/blob/master/changelogs.txt)
 * [Changelogs on steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/1903525208)
 
+* 6 Dec @ 10:23pm Update 65: Simple Hotfix for Vaults being broken.
+* 5 Dec @ 5:22pm Update 64: Revamped 2 turrets and removed most of the copy turrets (they're unused now), Multilingual support is here. UNITS REMOVED UNTIL FIXED!
 * 27 Mar @ 7:39pm Update 63: Removed unnecessary files
 * 27 Mar @ 7:25pm Update 62: Fixed fuses not firing lasers (thanks to Austin5003#2794 \ Though the lasers all deal the same damage [to compensate for it the higher tiers have faster reload times, more lasers, more health]), Changed drill requirements for azurite and azonite
 * 12 Mar @ 10:27pm Update 61: Made nano mech & pod transparent, added armorscale, forceglass conveyors, changed conveyor speeds
@@ -73,6 +76,7 @@ because you get automatic updates whenever i update the mod, also its easier for
 * 30 Jan @ 11:51am Update 55: Fixed antomius extractor
 * 20 Jan @ 12:39am Update 54: Added nano mech, Added compressed titanium and forge, Added compression unit and extractor (transparent liquid), Rearranged tech tree items, Fixed frazzure forge sprite (very small error)
 * 11 Jan @ 10:50pm Update 53: Added VTOL-F117 Bombers, Shooters, etc. (3), More materials...
+# 2019 Updates Below
 * 21 Dec @ 3:26pm Update 52: Fixed Large ion nodes being 2x2, changed mod description
 * 21 Dec @ 8:57am Update 51: Ion energy crystal resprite (by MemFaceGo), Fixed wall healths,names and descriptions
 * 18 Dec @ 10:04pm Update 50: Added Ion ore, power blocks

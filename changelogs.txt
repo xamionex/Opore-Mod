@@ -1,4 +1,5 @@
-* 5 Dec @ 5:22pm Update 64: Revamped 2 turrets and removed most of the copy turrets (they're unused now), Multilingual support is here. UNITS REMOVED UNTIL NEXT UPDATE!
+* 6 Dec @ 10:23pm Update 65: Simple Hotfix for Vaults being broken.
+* 5 Dec @ 5:22pm Update 64: Revamped 2 turrets and removed most of the copy turrets (they're unused now), Multilingual support is here. UNITS REMOVED UNTIL FIXED!
 * 27 Mar @ 7:39pm Update 63: Removed unnecessary files
 * 27 Mar @ 7:25pm Update 62: Fixed fuses not firing lasers (thanks to Austin5003#2794 \ Though the lasers all deal the same damage [to compensate for it the higher tiers have faster reload times, more lasers, more health]), Changed drill requirements for azurite and azonite
 * 12 Mar @ 10:27pm Update 61: Made nano mech & pod transparent, added armorscale, forceglass conveyors, changed conveyor speeds

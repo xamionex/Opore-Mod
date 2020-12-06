@@ -1,5 +1,5 @@
 {
-	"type": "Vault",
+	"type": "StorageBlock",
 	"itemCapacity": 150000,
 	"hasItems": true,
 	"health": 20000,
