@@ -6,7 +6,7 @@
 	"range": 180,
 	"inaccuracy": 1,
 	"rotatespeed": 12,
-	"ammo": {
+	"ammoTypes": {
 		"azurite": {
 			"speed": 3.0,
 			"damage": 55.0,

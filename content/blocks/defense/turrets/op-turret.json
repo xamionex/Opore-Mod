@@ -6,7 +6,7 @@
 	"range": 100,
 	"inaccuracy": 1,
 	"rotatespeed": 12,
-	"ammo": {
+	"ammoTypes": {
 		"opore": {
 			"speed": 3.0,
 			"damage": 30.0,
