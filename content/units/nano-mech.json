@@ -1,0 +1,29 @@
+{
+	"type": "flying",
+	"speed": 1.0,
+	"buildPower": 0.3,
+	"drillPower": 0.3,
+	"mineSpeed": 0.3,
+	"engineColor": "FFFFFF50",
+	"flying": false,
+	"health": 1,
+	"hovering": true,
+	"weapons": [
+		{
+		"name": "close",
+		"reload": 9,
+		"weaponOffsetX": 0,
+		"shootSound": "spark",
+		"bullet": { 
+			"type": "LightningBulletType",
+			"damage": 50, 
+			"length": 50,
+            "lightningSpacing": 45,
+            "lightningDelay": 1.1,
+            "lightningLengthRand": 15,
+            "lightningAngleRand": 40,
+            "lightningDamage": 20
+			}
+		}
+	]
+}

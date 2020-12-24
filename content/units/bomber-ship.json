@@ -1,0 +1,30 @@
+{
+	"type": "flying",
+	"speed": 4,
+	"buildPower": 15.0,
+	"drillPower": 12.0,
+	"mineSpeed": 12.0,
+	"engineColor": "302f2f",
+	"flying": true,
+	"health": 5000,
+	"weaponOffsetX": 4,
+	"weapons": [
+		{
+		"name": "missile-blaster",
+		"reload": 4,
+		"shootSound": "missile",
+		"bullet": { 
+			"type": "missileBulletType",
+			"bulletSprite": "missile-f117"
+			"damage": 60, 
+			"speed": 2,
+			"homingRange":150,
+			"homingPower":9,
+			"lifetime": 160
+			"frontColor": "ff0000",
+			"backColor": "ff0000",
+			"trailColor": "ff0000"
+			},
+		}
+	]
+}

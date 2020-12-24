@@ -1,0 +1,65 @@
+	"type": "UnitFactory",
+	"health": 500,
+	"size": 3,
+	"itemCapacity": 30,
+	"consumes": {
+		"power": 2.5
+	},
+	"plans": [
+		{
+			"unit": "opmechunit",
+			"requirements": [
+				{ "item": "lead", "amount": 50 },
+				{ "item": "opore", "amount": 80 },
+				{ "item": "silicon", "amount": 60 }
+			],
+			"time": 1200
+		},
+		{
+			"unit": "opmechunitG",
+			"requirements": [
+				{ "item": "lead", "amount": 50 },
+				{ "item": "opore", "amount": 80 },
+				{ "item": "silicon", "amount": 60 }
+			],
+			"time": 1200
+		},
+		{
+			"unit": "bomber-ship",
+			"requirements": [
+				{ "item": "armorscales", "amount": 10 },
+				{ "item": "forceglass", "amount": 10 },
+				{ "item": "missilepart", "amount": 10 },
+				{ "item": "reservoirpart", "amount": 10 },
+				{ "item": "opore", "amount": 80 }
+			],
+			"time": 1200
+		},
+		{
+			"unit": "awp-ship",
+			"requirements": [
+				{ "item": "armorscales", "amount": 10 },
+				{ "item": "forceglass", "amount": 10 },
+				{ "item": "missilepart", "amount": 10 },
+				{ "item": "reservoirpart", "amount": 10 },
+				{ "item": "opore", "amount": 80 }
+			],
+			"time": 1200
+		},
+		{
+			"unit": "nano-mech",
+			"requirements": [
+				{ "item": "lead", "amount": 50 },
+				{ "item": "compressionizedtitanium", "amount": 1 },
+				{ "item": "silicon", "amount": 60 }
+			],
+			"time": 1200
+		},
+	]
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "units"
+	"research": "command-center"

@@ -1,0 +1,32 @@
+{
+	"type": "flying",
+	"speed": 4,
+	"buildPower": 9.0,
+	"drillPower": 7.0,
+	"mineSpeed": 7.0,
+	"engineColor": "fc030b",
+	"flying": true,
+	"health": 3000,
+	"weaponOffsetX": -4,
+	"weapons": [
+		{
+		"name": "awp-shotty",
+		"reload": 60, 
+		"shootSound": "laser",
+		"shootEffect": "hitMeltdown",
+		"x": 0,
+		"y": 5,
+		"shootCone": 0,
+		"cooldownTime": 20,
+		"bullet": { 
+			"type": "ContinuousLaserBulletType",
+			"damage": 70,
+			"continuous": true,
+			"lifetime": 60,
+			"frontColor": "fc8803",
+			"backColor": "fc8803",
+			"width": 7
+			},
+		}
+	]
+}

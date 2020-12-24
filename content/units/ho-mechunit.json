@@ -1,0 +1,23 @@
+{
+	"type": "flying",
+	"speed": 3.7,
+	"flying": true,
+	"health": 700,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapons": [
+		{
+		"name": "ho-mechunit-blaster",
+		"reload": 8,
+		"shootSound": "spark",
+		"bullet": { 
+			"type": "LaserBulletType",
+			"damage": 23,
+			"frontColor": "ffffff",
+			"backColor": "d4d4d4"
+            "mixColorFrom": "ffffff",
+            "mixColorTo": "d4d4d4"
+			},
+		}
+	]
+}

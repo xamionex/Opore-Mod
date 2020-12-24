@@ -1,0 +1,24 @@
+{
+	"type": "flying",
+	"speed": 4,
+	"buildPower": 14.0,
+	"drillPower": 10.0,
+	"mineSpeed": 10.0,
+	"engineColor": "302f2f",
+	"flying": true,
+	"health": 6000,
+	"weaponOffsetX": 4,
+	"weapons": [
+		{
+		"name": "missile-blaster",
+		"reload": 9, 
+		"shootSound": "spark",
+		"bullet": { 
+			"type": "LaserBulletType",
+			"damage": 60,
+			"frontColor": "ff0000",
+			"backColor": "ff0000"
+			},
+		}
+	]
+}

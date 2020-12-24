@@ -1,0 +1,31 @@
+	"type": "Reconstructor",
+	"health": 500,
+	"size": 3,
+	"itemCapacity": 30,
+	"liquidCapacity": 50,
+	"constructTime": 300,
+	"upgrades": [
+		[ho-mechunit, vo-mechunit],
+		[ho-mechunitG, vo-mechunitG],
+		[bomber2-ship, bomber3-ship]
+	]
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 200 },
+				{ "item": "metaglass", "amount": 100 },
+				{ "item": "silicon", "amount": 250 },
+			]
+		},
+		"liquid": { "liquid": "liquid-opore", "amount": 0.5 }
+		"power": 7
+	}
+	"requirements": [
+		{ "item": "lead", "amount": 1500 },
+		{ "item": "silicon", "amount": 900 },
+		{ "item": "thorium", "amount": 1200 },
+		{ "item": "titanium", "amount": 700 },
+		{ "item": "metaglass", "amount": 550 },
+	],
+	"category": "units",
+	"research": "op-additive-reconstructor"

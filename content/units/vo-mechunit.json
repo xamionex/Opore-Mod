@@ -1,0 +1,28 @@
+{
+	"type": "flying",
+	"speed": 4,
+	"flying": true,
+	"health": 1000,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapons": [
+		{
+		"name": "vo-mechunit-blaster",
+		"reload": 7,
+		"shootSound": "missile",
+		"bullet": { 
+			"type": "missileBulletType",
+			"damage": 35,
+			"homingRange":120,
+			"homingPower":7,
+			"speed": 2,
+			"lifetime": 160
+			"frontColor": "000000",
+			"backColor": "1f1f1f",
+			"trailColor": "141414"
+            "mixColorFrom": "000000",
+            "mixColorTo": "1f1f1f"
+			}
+		}
+	]
+}

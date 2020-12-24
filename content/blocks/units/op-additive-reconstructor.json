@@ -1,0 +1,27 @@
+	"type": "Reconstructor",
+	"health": 500,
+	"size": 3,
+	"itemCapacity": 50,
+	"constructTime": 900,
+	"upgrades": [
+		[opmechunit, ho-mechunit],
+		[opmechunitG, ho-mechunitG],
+		[bomber-ship, bomber2-ship]
+	],
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 50 },
+				{ "item": "holyore", "amount": 50 },
+				{ "item": "silicon", "amount": 40 }
+			]
+		}
+		"power": 3
+	}
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "holyore", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	]
+	"category": "units"
+	"research": "op-factory"
