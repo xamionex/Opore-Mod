@@ -28,7 +28,6 @@ NOTE: Update 30+: Some items will be broken because they cannot be done any othe
 
 * > Sprites - anuke, amione#0663, MemFaceGo
 
-* > Report bugs - wewemaster#8854 (on discord)
 * > Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/
 * > Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose
 
