@@ -1,3 +1,4 @@
+* 21 Jan @ 1:30pm Update 68: Added chinese, german and russian translations (Google), added liquid descriptions on all versions
 * 24 Dec @ 10:28pm Update 67: Fixed misspelt references in .bundles, Added units from update 30~, Finally fixed Impending Doom
 * 7 Dec @ 6:18am Update 66: Turrets not taking ammo hotfix
 * 6 Dec @ 10:23pm Update 65: Simple Hotfix for Vaults being broken.
