@@ -5,6 +5,7 @@
 	"health": 1000,
 	"engineOffset": 5.5,
 	"range": 160,
+	"research": "ho-mechunit"
 	"weapons": [
 		{
 		"name": "vo-mechunit-blaster",

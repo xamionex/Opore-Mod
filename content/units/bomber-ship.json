@@ -8,6 +8,7 @@
 	"flying": true,
 	"health": 5000,
 	"weaponOffsetX": 4,
+	"research": "op-factory"
 	"weapons": [
 		{
 		"name": "missile-blaster",

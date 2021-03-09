@@ -6,6 +6,7 @@
 	"engineOffset": 5.5,
 	"range": 160,
 	"hovering": true,
+	"research": "ho-mechunitG"
 	"weapons": [
 		{
 		"name": "vo-mechunitG-blaster",

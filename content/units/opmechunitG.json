@@ -6,6 +6,7 @@
 	"engineOffset": 5.5,
 	"range": 160,
 	"hovering": true,
+	"research": "op-factory"
 	"weapons": [
 		{
 		"name": "op-mechunitG-blaster",

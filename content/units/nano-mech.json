@@ -8,6 +8,7 @@
 	"flying": false,
 	"health": 1,
 	"hovering": true,
+	"research": "op-factory"
 	"weapons": [
 		{
 		"name": "close",

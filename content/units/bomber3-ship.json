@@ -8,6 +8,7 @@
 	"flying": true,
 	"health": 6000,
 	"weaponOffsetX": 4,
+	"research": "bomber2-ship"
 	"weapons": [
 		{
 		"name": "missile-blaster",

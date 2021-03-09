@@ -8,6 +8,7 @@
 	"flying": true,
 	"health": 3000,
 	"weaponOffsetX": -4,
+	"research": "op-factory"
 	"weapons": [
 		{
 		"name": "awp-shotty",
